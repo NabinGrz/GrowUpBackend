@@ -1,0 +1,413 @@
+[
+    {
+        "skillID": 10,
+        "questions": [
+            {
+                "id": 21,
+                "skill": "Android Development",
+                "text": "This is what happens when the desired outcome of a marketing message is achieved",
+                "options": [
+                    {
+                        "id": 86,
+                        "text": "Conversion",
+                        "questionId": 21,
+                        "isCorrectOption": true
+                    },
+                    {
+                        "id": 87,
+                        "text": "Return on Investment",
+                        "questionId": 21,
+                        "isCorrectOption": false
+                    },
+                    {
+                        "id": 88,
+                        "text": "Demographic",
+                        "questionId": 21,
+                        "isCorrectOption": false
+                    },
+                    {
+                        "id": 127,
+                        "text": "Cross Promoting",
+                        "questionId": 21,
+                        "isCorrectOption": false
+                    }
+                ]
+            },
+            {
+                "id": 22,
+                "skill": "Android Development",
+                "text": "To better understand your potential target market you should study the _______________of the population.",
+                "options": [
+                    {
+                        "id": 89,
+                        "text": "Hair Styles",
+                        "questionId": 22,
+                        "isCorrectOption": false
+                    },
+                    {
+                        "id": 90,
+                        "text": "Platform",
+                        "questionId": 22,
+                        "isCorrectOption": false
+                    },
+                    {
+                        "id": 91,
+                        "text": "Return on investment",
+                        "questionId": 22,
+                        "isCorrectOption": false
+                    },
+                    {
+                        "id": 92,
+                        "text": "Demographics",
+                        "questionId": 22,
+                        "isCorrectOption": true
+                    }
+                ]
+            },
+            {
+                "id": 23,
+                "skill": "Android Development",
+                "text": "___________is a marketing technique which involved promotion of a product targeted to the customers of a related product",
+                "options": [
+                    {
+                        "id": 93,
+                        "text": "Cross promoting",
+                        "questionId": 23,
+                        "isCorrectOption": true
+                    },
+                    {
+                        "id": 94,
+                        "text": "Reversion",
+                        "questionId": 23,
+                        "isCorrectOption": false
+                    },
+                    {
+                        "id": 95,
+                        "text": "Content marketing",
+                        "questionId": 23,
+                        "isCorrectOption": false
+                    },
+                    {
+                        "id": 96,
+                        "text": "Influencer",
+                        "questionId": 23,
+                        "isCorrectOption": false
+                    }
+                ]
+            },
+            {
+                "id": 24,
+                "skill": "Android Development",
+                "text": "Which of the following is not a platform on social media?",
+                "options": [
+                    {
+                        "id": 97,
+                        "text": "Walmart",
+                        "questionId": 24,
+                        "isCorrectOption": true
+                    },
+                    {
+                        "id": 98,
+                        "text": "Twitter",
+                        "questionId": 24,
+                        "isCorrectOption": false
+                    },
+                    {
+                        "id": 99,
+                        "text": "Facebook",
+                        "questionId": 24,
+                        "isCorrectOption": false
+                    },
+                    {
+                        "id": 100,
+                        "text": "Pinterest",
+                        "questionId": 24,
+                        "isCorrectOption": false
+                    }
+                ]
+            },
+            {
+                "id": 25,
+                "skill": "Android Development",
+                "text": "What refers to the number of users who have come across particular content on social platforms?",
+                "options": [
+                    {
+                        "id": 101,
+                        "text": "Analytics",
+                        "questionId": 25,
+                        "isCorrectOption": false
+                    },
+                    {
+                        "id": 102,
+                        "text": "Prorate",
+                        "questionId": 25,
+                        "isCorrectOption": false
+                    },
+                    {
+                        "id": 103,
+                        "text": "Reach",
+                        "questionId": 25,
+                        "isCorrectOption": true
+                    },
+                    {
+                        "id": 104,
+                        "text": "Performance",
+                        "questionId": 25,
+                        "isCorrectOption": false
+                    }
+                ]
+            },
+            {
+                "id": 26,
+                "skill": "Android Development",
+                "text": "What is a performance indicator that measures the amount gained from an investment relative to the investment's cost",
+                "options": [
+                    {
+                        "id": 105,
+                        "text": "Return On Investment",
+                        "questionId": 26,
+                        "isCorrectOption": true
+                    },
+                    {
+                        "id": 106,
+                        "text": "Clicks Per Cost",
+                        "questionId": 26,
+                        "isCorrectOption": false
+                    },
+                    {
+                        "id": 107,
+                        "text": "Return On clicks",
+                        "questionId": 26,
+                        "isCorrectOption": false
+                    },
+                    {
+                        "id": 108,
+                        "text": "Activate Pagee",
+                        "questionId": 26,
+                        "isCorrectOption": false
+                    }
+                ]
+            },
+            {
+                "id": 27,
+                "skill": "Android Development",
+                "text": "______________can increase the amount of traffic to your website.",
+                "options": [
+                    {
+                        "id": 114,
+                        "text": "Search Engine Optimization",
+                        "questionId": 27,
+                        "isCorrectOption": true
+                    },
+                    {
+                        "id": 115,
+                        "text": "Reach",
+                        "questionId": 27,
+                        "isCorrectOption": false
+                    },
+                    {
+                        "id": 116,
+                        "text": "Platform",
+                        "questionId": 27,
+                        "isCorrectOption": false
+                    },
+                    {
+                        "id": 118,
+                        "text": "Return On Investment",
+                        "questionId": 27,
+                        "isCorrectOption": true
+                    }
+                ]
+            },
+            {
+                "id": 29,
+                "skill": "Android Development",
+                "text": "What is a strategic marketing approach that focuses on creating and distributing content that is valuable, relevant and consistent content to attract and acquire a target audience?",
+                "options": [
+                    {
+                        "id": 119,
+                        "text": "Conversion",
+                        "questionId": 29,
+                        "isCorrectOption": false
+                    },
+                    {
+                        "id": 120,
+                        "text": "Social media marketing",
+                        "questionId": 29,
+                        "isCorrectOption": false
+                    },
+                    {
+                        "id": 121,
+                        "text": "Social cross promoting",
+                        "questionId": 29,
+                        "isCorrectOption": false
+                    },
+                    {
+                        "id": 122,
+                        "text": "Content marketing",
+                        "questionId": 29,
+                        "isCorrectOption": true
+                    }
+                ]
+            },
+            {
+                "id": 30,
+                "skill": "Android Development",
+                "text": "What is Social Media Marketing?",
+                "options": [
+                    {
+                        "id": 123,
+                        "text": "The use of newspapers magazines or commercials to promote your business.",
+                        "questionId": 30,
+                        "isCorrectOption": false
+                    },
+                    {
+                        "id": 124,
+                        "text": "The use of signs and posters to promote your service or product",
+                        "questionId": 30,
+                        "isCorrectOption": false
+                    },
+                    {
+                        "id": 125,
+                        "text": "The use of social media platforms and websites to promote a product or service.",
+                        "questionId": 30,
+                        "isCorrectOption": true
+                    },
+                    {
+                        "id": 126,
+                        "text": "The use of Snapchat or Facetime",
+                        "questionId": 30,
+                        "isCorrectOption": false
+                    }
+                ]
+            },
+            {
+                "id": 30,
+                "skill": "Android Development",
+                "text": "What is Social Media Marketing?",
+                "options": [
+                    {
+                        "id": 123,
+                        "text": "The use of newspapers magazines or commercials to promote your business.",
+                        "questionId": 30,
+                        "isCorrectOption": false
+                    },
+                    {
+                        "id": 124,
+                        "text": "The use of signs and posters to promote your service or product",
+                        "questionId": 30,
+                        "isCorrectOption": false
+                    },
+                    {
+                        "id": 125,
+                        "text": "The use of social media platforms and websites to promote a product or service.",
+                        "questionId": 30,
+                        "isCorrectOption": true
+                    },
+                    {
+                        "id": 126,
+                        "text": "The use of Snapchat or Facetime",
+                        "questionId": 30,
+                        "isCorrectOption": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "skillID":12,
+        "questions": [
+            {
+                "id": 21,
+                "skill": "Web Development",
+                "text": "This is web development Question",
+                "options": [
+                    {
+                        "id": 86,
+                        "text": "Conversion",
+                        "questionId": 21,
+                        "isCorrectOption": true
+                    },
+                    {
+                        "id": 87,
+                        "text": "Return on Investment",
+                        "questionId": 21,
+                        "isCorrectOption": false
+                    },
+                    {
+                        "id": 88,
+                        "text": "Demographic",
+                        "questionId": 21,
+                        "isCorrectOption": false
+                    },
+                    {
+                        "id": 127,
+                        "text": "Cross Promoting",
+                        "questionId": 21,
+                        "isCorrectOption": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "skillID": 3,
+        "questions": []
+    },
+    {
+        "skillID": 4,
+        "questions": []
+    },
+    {
+        "skillID": 5,
+        "questions": []
+    },
+    {
+        "skillID": 6,
+        "questions": []
+    },
+    {
+        "skillID": 7,
+        "questions": []
+    },
+    {
+        "skillID": 8,
+        "questions": []
+    },
+    {
+        "skillID": 9,
+        "questions": [
+            {
+                "id": 21,
+                "skill": "Web Development",
+                "text": "This is last skill Question",
+                "options": [
+                    {
+                        "id": 86,
+                        "text": "Conversion",
+                        "questionId": 21,
+                        "isCorrectOption": true
+                    },
+                    {
+                        "id": 87,
+                        "text": "Return on Investment",
+                        "questionId": 21,
+                        "isCorrectOption": false
+                    },
+                    {
+                        "id": 88,
+                        "text": "Demographic",
+                        "questionId": 21,
+                        "isCorrectOption": false
+                    },
+                    {
+                        "id": 127,
+                        "text": "Cross Promoting",
+                        "questionId": 21,
+                        "isCorrectOption": false
+                    }
+                ]
+            }
+        ]
+    }
+]

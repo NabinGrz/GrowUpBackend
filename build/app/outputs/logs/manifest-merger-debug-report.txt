@@ -1,0 +1,445 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\FYP\Flutter\GrowUp\android\app\src\main\AndroidManifest.xml:1:1-66:12
+INJECTED from C:\FYP\Flutter\GrowUp\android\app\src\main\AndroidManifest.xml:1:1-66:12
+INJECTED from C:\FYP\Flutter\GrowUp\android\app\src\main\AndroidManifest.xml:1:1-66:12
+INJECTED from C:\FYP\Flutter\GrowUp\android\app\src\main\AndroidManifest.xml:1:1-66:12
+MERGED from C:\FYP\Flutter\GrowUp\android\app\src\main\AndroidManifest.xml:1:1-66:12
+MERGED from [:image_picker_android] C:\FYP\Flutter\GrowUp\build\image_picker_android\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-19:12
+MERGED from [:flutter_plugin_android_lifecycle] C:\FYP\Flutter\GrowUp\build\flutter_plugin_android_lifecycle\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:esewa_pnp] C:\FYP\Flutter\GrowUp\build\esewa_pnp\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:sqflite] C:\FYP\Flutter\GrowUp\build\sqflite\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:url_launcher_android] C:\FYP\Flutter\GrowUp\build\url_launcher_android\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-14:12
+MERGED from [:path_provider_android] C:\FYP\Flutter\GrowUp\build\path_provider_android\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:flutter_secure_storage] C:\FYP\Flutter\GrowUp\build\flutter_secure_storage\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-13:12
+MERGED from [:connectivity_plus] C:\FYP\Flutter\GrowUp\build\connectivity_plus\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:wakelock] C:\FYP\Flutter\GrowUp\build\wakelock\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:shared_preferences_android] C:\FYP\Flutter\GrowUp\build\shared_preferences_android\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:video_thumbnail] C:\FYP\Flutter\GrowUp\build\video_thumbnail\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:permission_handler_android] C:\FYP\Flutter\GrowUp\build\permission_handler_android\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:share_plus] C:\FYP\Flutter\GrowUp\build\share_plus\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-19:12
+MERGED from [:flutter_keyboard_visibility] C:\FYP\Flutter\GrowUp\build\flutter_keyboard_visibility\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:package_info_plus] C:\FYP\Flutter\GrowUp\build\package_info_plus\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:fluttertoast] C:\FYP\Flutter\GrowUp\build\fluttertoast\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:device_info_plus] C:\FYP\Flutter\GrowUp\build\device_info_plus\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:video_player_android] C:\FYP\Flutter\GrowUp\build\video_player_android\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:flutter_phone_direct_caller] C:\FYP\Flutter\GrowUp\build\flutter_phone_direct_caller\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-15:12
+MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\nabin\.gradle\caches\transforms-2\files-2.1\a2f650a70b204393ba1526e0273d563e\multidex-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\nabin\.gradle\caches\transforms-2\files-2.1\ad201fac15a88598107ec645f351f5b4\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\nabin\.gradle\caches\transforms-2\files-2.1\03c633e46d75bfb21f082f0417f55161\jetified-window-1.0.0-beta04\AndroidManifest.xml:17:1-33:12
+MERGED from [com.google.android.material:material:1.2.0-alpha05] C:\Users\nabin\.gradle\caches\transforms-2\files-2.1\cd22467ac1f90a302c10d674e9ee6905\material-1.2.0-alpha05\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\nabin\.gradle\caches\transforms-2\files-2.1\6bb69121fbfc7f55675d79a165028fc2\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.security:security-crypto:1.1.0-alpha03] C:\Users\nabin\.gradle\caches\transforms-2\files-2.1\6ce64dc64389423c79e4cc3d3edd2c15\jetified-security-crypto-1.1.0-alpha03\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.7.0] C:\Users\nabin\.gradle\caches\transforms-2\files-2.1\1efe65f6f5da5652bddd1d59d636630d\jetified-core-ktx-1.7.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.0] C:\Users\nabin\.gradle\caches\transforms-2\files-2.1\a0dda19c88b91d185bde1c2434cd4953\exifinterface-1.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.17.1] C:\Users\nabin\.gradle\caches\transforms-2\files-2.1\3bda5006f0da088db4cd11e056b1c724\jetified-exoplayer-hls-2.17.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.17.1] C:\Users\nabin\.gradle\caches\transforms-2\files-2.1\b60f216a039b8fd2fc8d79caee003689\jetified-exoplayer-dash-2.17.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.17.1] C:\Users\nabin\.gradle\caches\transforms-2\files-2.1\0c0cdee2846edd3719e48cdb23be2272\jetified-exoplayer-smoothstreaming-2.17.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.17.1] C:\Users\nabin\.gradle\caches\transforms-2\files-2.1\f81d7720190f110f0e5c11d71f550860\jetified-exoplayer-core-2.17.1\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\nabin\.gradle\caches\transforms-2\files-2.1\1729610d030977dce8856d24bcddf4c4\appcompat-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\nabin\.gradle\caches\transforms-2\files-2.1\8a872343ad72e09c1db9590ff94dc0b1\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\nabin\.gradle\caches\transforms-2\files-2.1\8601dd65e0c6893d5abc5ccde1e2cab3\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\nabin\.gradle\caches\transforms-2\files-2.1\6c6575c923e75933616af1a602db32e0\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\nabin\.gradle\caches\transforms-2\files-2.1\ea2da72bd5ca4f251f51c345aebba41f\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\nabin\.gradle\caches\transforms-2\files-2.1\8f80d6dba72e89729b638c53f3294343\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\nabin\.gradle\caches\transforms-2\files-2.1\f1e0b59fe158728c831983d1881eb36f\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\nabin\.gradle\caches\transforms-2\files-2.1\61fd575f974e3d768efc2f6a143e0eae\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\nabin\.gradle\caches\transforms-2\files-2.1\986216458f3c0df423ee68e7f1177976\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\nabin\.gradle\caches\transforms-2\files-2.1\ae39e38aa58f5c391f29a4bfad4a41a4\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\nabin\.gradle\caches\transforms-2\files-2.1\92d1f830d8a4f76d15ea1f849fb6f29f\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\nabin\.gradle\caches\transforms-2\files-2.1\172ae1f46f014e6681a2cc350fa8b737\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\nabin\.gradle\caches\transforms-2\files-2.1\09c1773ed3597f8bec6064dc26d157be\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\nabin\.gradle\caches\transforms-2\files-2.1\9416e837706c8050a4b4397a65e9077c\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\nabin\.gradle\caches\transforms-2\files-2.1\9ccab238727e236e8aff01a0f95cebe4\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.7.0] C:\Users\nabin\.gradle\caches\transforms-2\files-2.1\b9a960218f5163997c0fdfa3d3078c0e\core-1.7.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\nabin\.gradle\caches\transforms-2\files-2.1\884708a9396f81808c0ac10f4b98ea32\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.exoplayer:exoplayer-datasource:2.17.1] C:\Users\nabin\.gradle\caches\transforms-2\files-2.1\f357c64724341904aa8dd1e6cfa122cd\jetified-exoplayer-datasource-2.17.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-extractor:2.17.1] C:\Users\nabin\.gradle\caches\transforms-2\files-2.1\c11a2dea3341985e5a3797b52f9e6170\jetified-exoplayer-extractor-2.17.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-decoder:2.17.1] C:\Users\nabin\.gradle\caches\transforms-2\files-2.1\783fcff2c64bc8f801124b39d5623422\jetified-exoplayer-decoder-2.17.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-database:2.17.1] C:\Users\nabin\.gradle\caches\transforms-2\files-2.1\e17b68e256e738562942bc1512b4b5c8\jetified-exoplayer-database-2.17.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.17.1] C:\Users\nabin\.gradle\caches\transforms-2\files-2.1\a4b01154a71be27f51343e9e9dd58b68\jetified-exoplayer-common-2.17.1\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\nabin\.gradle\caches\transforms-2\files-2.1\69ba5a98805d81d755806668ff70d04f\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\nabin\.gradle\caches\transforms-2\files-2.1\8578375fbf5df5bbe65cca21a6cd6acf\lifecycle-runtime-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\nabin\.gradle\caches\transforms-2\files-2.1\9a0e475eb211916dfa0da9de1d6c02a3\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\nabin\.gradle\caches\transforms-2\files-2.1\8d7928c9f52af5f964a662866fcebb3e\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\nabin\.gradle\caches\transforms-2\files-2.1\8108bc8c5f35a568f919dbab3be0e175\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\nabin\.gradle\caches\transforms-2\files-2.1\403e5322101e882ebd13d146c86f92ca\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\nabin\.gradle\caches\transforms-2\files-2.1\16e110bf603f94cf61f970a18f3907e3\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\nabin\.gradle\caches\transforms-2\files-2.1\9ed314abc3df537a2d48c1cb6d65998e\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [:eSewaSdk:] C:\Users\nabin\.gradle\caches\transforms-2\files-2.1\d22478409745de2c4f60e3aa18cfe8f0\jetified-eSewaSdk\AndroidManifest.xml:2:1-31:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\nabin\.gradle\caches\transforms-2\files-2.1\5bfc0955e244073bdc8cc139cda5e092\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\FYP\Flutter\GrowUp\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+INJECTED from C:\FYP\Flutter\GrowUp\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+INJECTED from C:\FYP\Flutter\GrowUp\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+	package
+		ADDED from C:\FYP\Flutter\GrowUp\android\app\src\main\AndroidManifest.xml:2:5-33
+		INJECTED from C:\FYP\Flutter\GrowUp\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\FYP\Flutter\GrowUp\android\app\src\debug\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\FYP\Flutter\GrowUp\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\FYP\Flutter\GrowUp\android\app\src\main\AndroidManifest.xml:1:1-66:12
+		INJECTED from C:\FYP\Flutter\GrowUp\android\app\src\debug\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\FYP\Flutter\GrowUp\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\FYP\Flutter\GrowUp\android\app\src\main\AndroidManifest.xml:1:1-66:12
+		INJECTED from C:\FYP\Flutter\GrowUp\android\app\src\debug\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\FYP\Flutter\GrowUp\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\FYP\Flutter\GrowUp\android\app\src\main\AndroidManifest.xml:3:5-67
+MERGED from C:\FYP\Flutter\GrowUp\android\app\src\main\AndroidManifest.xml:3:5-67
+MERGED from C:\FYP\Flutter\GrowUp\android\app\src\main\AndroidManifest.xml:3:5-67
+MERGED from [:eSewaSdk:] C:\Users\nabin\.gradle\caches\transforms-2\files-2.1\d22478409745de2c4f60e3aa18cfe8f0\jetified-eSewaSdk\AndroidManifest.xml:11:5-67
+MERGED from [:eSewaSdk:] C:\Users\nabin\.gradle\caches\transforms-2\files-2.1\d22478409745de2c4f60e3aa18cfe8f0\jetified-eSewaSdk\AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from C:\FYP\Flutter\GrowUp\android\app\src\main\AndroidManifest.xml:3:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\FYP\Flutter\GrowUp\android\app\src\main\AndroidManifest.xml:4:1-75
+MERGED from [:connectivity_plus] C:\FYP\Flutter\GrowUp\build\connectivity_plus\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-79
+MERGED from [:connectivity_plus] C:\FYP\Flutter\GrowUp\build\connectivity_plus\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.17.1] C:\Users\nabin\.gradle\caches\transforms-2\files-2.1\f81d7720190f110f0e5c11d71f550860\jetified-exoplayer-core-2.17.1\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.17.1] C:\Users\nabin\.gradle\caches\transforms-2\files-2.1\f81d7720190f110f0e5c11d71f550860\jetified-exoplayer-core-2.17.1\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.17.1] C:\Users\nabin\.gradle\caches\transforms-2\files-2.1\a4b01154a71be27f51343e9e9dd58b68\jetified-exoplayer-common-2.17.1\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.17.1] C:\Users\nabin\.gradle\caches\transforms-2\files-2.1\a4b01154a71be27f51343e9e9dd58b68\jetified-exoplayer-common-2.17.1\AndroidManifest.xml:24:5-79
+MERGED from [:eSewaSdk:] C:\Users\nabin\.gradle\caches\transforms-2\files-2.1\d22478409745de2c4f60e3aa18cfe8f0\jetified-eSewaSdk\AndroidManifest.xml:12:5-79
+MERGED from [:eSewaSdk:] C:\Users\nabin\.gradle\caches\transforms-2\files-2.1\d22478409745de2c4f60e3aa18cfe8f0\jetified-eSewaSdk\AndroidManifest.xml:12:5-79
+	android:name
+		ADDED from C:\FYP\Flutter\GrowUp\android\app\src\main\AndroidManifest.xml:4:18-72
+uses-permission#android.permission.QUERY_ALL_PACKAGES
+ADDED from C:\FYP\Flutter\GrowUp\android\app\src\main\AndroidManifest.xml:5:1-73
+	android:name
+		ADDED from C:\FYP\Flutter\GrowUp\android\app\src\main\AndroidManifest.xml:5:18-70
+queries
+ADDED from C:\FYP\Flutter\GrowUp\android\app\src\main\AndroidManifest.xml:6:1-19:11
+intent#action:name:android.intent.action.VIEW+data:scheme:https
+ADDED from C:\FYP\Flutter\GrowUp\android\app\src\main\AndroidManifest.xml:7:5-10:14
+action#android.intent.action.VIEW
+ADDED from C:\FYP\Flutter\GrowUp\android\app\src\main\AndroidManifest.xml:8:9-61
+	android:name
+		ADDED from C:\FYP\Flutter\GrowUp\android\app\src\main\AndroidManifest.xml:8:17-58
+data
+ADDED from C:\FYP\Flutter\GrowUp\android\app\src\main\AndroidManifest.xml:9:9-40
+	android:scheme
+		ADDED from C:\FYP\Flutter\GrowUp\android\app\src\main\AndroidManifest.xml:9:15-37
+intent#action:name:android.intent.action.DIAL+data:scheme:tel
+ADDED from C:\FYP\Flutter\GrowUp\android\app\src\main\AndroidManifest.xml:11:5-14:14
+action#android.intent.action.DIAL
+ADDED from C:\FYP\Flutter\GrowUp\android\app\src\main\AndroidManifest.xml:12:9-61
+	android:name
+		ADDED from C:\FYP\Flutter\GrowUp\android\app\src\main\AndroidManifest.xml:12:17-58
+intent#action:name:android.intent.action.SEND+data:mimeType:*/*
+ADDED from C:\FYP\Flutter\GrowUp\android\app\src\main\AndroidManifest.xml:15:5-18:14
+action#android.intent.action.SEND
+ADDED from C:\FYP\Flutter\GrowUp\android\app\src\main\AndroidManifest.xml:16:9-61
+	android:name
+		ADDED from C:\FYP\Flutter\GrowUp\android\app\src\main\AndroidManifest.xml:16:17-58
+application
+ADDED from C:\FYP\Flutter\GrowUp\android\app\src\main\AndroidManifest.xml:20:4-65:19
+MERGED from [:image_picker_android] C:\FYP\Flutter\GrowUp\build\image_picker_android\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-17:19
+MERGED from [:image_picker_android] C:\FYP\Flutter\GrowUp\build\image_picker_android\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-17:19
+MERGED from [:url_launcher_android] C:\FYP\Flutter\GrowUp\build\url_launcher_android\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-12:19
+MERGED from [:url_launcher_android] C:\FYP\Flutter\GrowUp\build\url_launcher_android\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-12:19
+MERGED from [:share_plus] C:\FYP\Flutter\GrowUp\build\share_plus\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-17:19
+MERGED from [:share_plus] C:\FYP\Flutter\GrowUp\build\share_plus\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-17:19
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\nabin\.gradle\caches\transforms-2\files-2.1\03c633e46d75bfb21f082f0417f55161\jetified-window-1.0.0-beta04\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\nabin\.gradle\caches\transforms-2\files-2.1\03c633e46d75bfb21f082f0417f55161\jetified-window-1.0.0-beta04\AndroidManifest.xml:24:5-31:19
+MERGED from [com.google.android.material:material:1.2.0-alpha05] C:\Users\nabin\.gradle\caches\transforms-2\files-2.1\cd22467ac1f90a302c10d674e9ee6905\material-1.2.0-alpha05\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.2.0-alpha05] C:\Users\nabin\.gradle\caches\transforms-2\files-2.1\cd22467ac1f90a302c10d674e9ee6905\material-1.2.0-alpha05\AndroidManifest.xml:22:5-20
+MERGED from [androidx.core:core:1.7.0] C:\Users\nabin\.gradle\caches\transforms-2\files-2.1\b9a960218f5163997c0fdfa3d3078c0e\core-1.7.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.7.0] C:\Users\nabin\.gradle\caches\transforms-2\files-2.1\b9a960218f5163997c0fdfa3d3078c0e\core-1.7.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\nabin\.gradle\caches\transforms-2\files-2.1\884708a9396f81808c0ac10f4b98ea32\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\nabin\.gradle\caches\transforms-2\files-2.1\884708a9396f81808c0ac10f4b98ea32\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [:eSewaSdk:] C:\Users\nabin\.gradle\caches\transforms-2\files-2.1\d22478409745de2c4f60e3aa18cfe8f0\jetified-eSewaSdk\AndroidManifest.xml:14:5-29:19
+MERGED from [:eSewaSdk:] C:\Users\nabin\.gradle\caches\transforms-2\files-2.1\d22478409745de2c4f60e3aa18cfe8f0\jetified-eSewaSdk\AndroidManifest.xml:14:5-29:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.7.0] C:\Users\nabin\.gradle\caches\transforms-2\files-2.1\b9a960218f5163997c0fdfa3d3078c0e\core-1.7.0\AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from C:\FYP\Flutter\GrowUp\android\app\src\main\AndroidManifest.xml:22:9-31
+	android:allowBackup
+		ADDED from [:eSewaSdk:] C:\Users\nabin\.gradle\caches\transforms-2\files-2.1\d22478409745de2c4f60e3aa18cfe8f0\jetified-eSewaSdk\AndroidManifest.xml:14:18-44
+	android:icon
+		ADDED from C:\FYP\Flutter\GrowUp\android\app\src\main\AndroidManifest.xml:23:9-43
+	android:theme
+		ADDED from C:\FYP\Flutter\GrowUp\android\app\src\main\AndroidManifest.xml:21:4-60
+activity#com.example.growup.MainActivity
+ADDED from C:\FYP\Flutter\GrowUp\android\app\src\main\AndroidManifest.xml:24:9-59:20
+	android:launchMode
+		ADDED from C:\FYP\Flutter\GrowUp\android\app\src\main\AndroidManifest.xml:26:13-43
+	android:hardwareAccelerated
+		ADDED from C:\FYP\Flutter\GrowUp\android\app\src\main\AndroidManifest.xml:29:13-47
+	android:windowSoftInputMode
+		ADDED from C:\FYP\Flutter\GrowUp\android\app\src\main\AndroidManifest.xml:30:13-55
+	android:configChanges
+		ADDED from C:\FYP\Flutter\GrowUp\android\app\src\main\AndroidManifest.xml:28:13-163
+	android:theme
+		ADDED from C:\FYP\Flutter\GrowUp\android\app\src\main\AndroidManifest.xml:27:13-47
+	android:name
+		ADDED from C:\FYP\Flutter\GrowUp\android\app\src\main\AndroidManifest.xml:25:13-41
+meta-data#flutter_deeplinking_enabled
+ADDED from C:\FYP\Flutter\GrowUp\android\app\src\main\AndroidManifest.xml:31:14-91
+	android:value
+		ADDED from C:\FYP\Flutter\GrowUp\android\app\src\main\AndroidManifest.xml:31:68-88
+	android:name
+		ADDED from C:\FYP\Flutter\GrowUp\android\app\src\main\AndroidManifest.xml:31:25-67
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:{your package name}+data:scheme:kpg
+ADDED from C:\FYP\Flutter\GrowUp\android\app\src\main\AndroidManifest.xml:32:1-37:17
+	android:autoVerify
+		ADDED from C:\FYP\Flutter\GrowUp\android\app\src\main\AndroidManifest.xml:32:16-41
+category#android.intent.category.DEFAULT
+ADDED from C:\FYP\Flutter\GrowUp\android\app\src\main\AndroidManifest.xml:34:5-64
+	android:name
+		ADDED from C:\FYP\Flutter\GrowUp\android\app\src\main\AndroidManifest.xml:34:15-61
+category#android.intent.category.BROWSABLE
+ADDED from C:\FYP\Flutter\GrowUp\android\app\src\main\AndroidManifest.xml:35:5-66
+	android:name
+		ADDED from C:\FYP\Flutter\GrowUp\android\app\src\main\AndroidManifest.xml:35:15-63
+meta-data#io.flutter.embedding.android.NormalTheme
+ADDED from C:\FYP\Flutter\GrowUp\android\app\src\main\AndroidManifest.xml:42:13-45:17
+	android:resource
+		ADDED from C:\FYP\Flutter\GrowUp\android\app\src\main\AndroidManifest.xml:44:15-52
+	android:name
+		ADDED from C:\FYP\Flutter\GrowUp\android\app\src\main\AndroidManifest.xml:43:15-70
+meta-data#io.flutter.embedding.android.SplashScreenDrawable
+ADDED from C:\FYP\Flutter\GrowUp\android\app\src\main\AndroidManifest.xml:51:13-54:17
+	android:resource
+		ADDED from C:\FYP\Flutter\GrowUp\android\app\src\main\AndroidManifest.xml:53:15-61
+	android:name
+		ADDED from C:\FYP\Flutter\GrowUp\android\app\src\main\AndroidManifest.xml:52:15-79
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\FYP\Flutter\GrowUp\android\app\src\main\AndroidManifest.xml:55:13-58:29
+action#android.intent.action.MAIN
+ADDED from C:\FYP\Flutter\GrowUp\android\app\src\main\AndroidManifest.xml:56:17-68
+	android:name
+		ADDED from C:\FYP\Flutter\GrowUp\android\app\src\main\AndroidManifest.xml:56:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\FYP\Flutter\GrowUp\android\app\src\main\AndroidManifest.xml:57:17-76
+	android:name
+		ADDED from C:\FYP\Flutter\GrowUp\android\app\src\main\AndroidManifest.xml:57:27-74
+meta-data#flutterEmbedding
+ADDED from C:\FYP\Flutter\GrowUp\android\app\src\main\AndroidManifest.xml:62:9-64:33
+	android:value
+		ADDED from C:\FYP\Flutter\GrowUp\android\app\src\main\AndroidManifest.xml:64:13-30
+	android:name
+		ADDED from C:\FYP\Flutter\GrowUp\android\app\src\main\AndroidManifest.xml:63:13-44
+uses-sdk
+INJECTED from C:\FYP\Flutter\GrowUp\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\FYP\Flutter\GrowUp\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\FYP\Flutter\GrowUp\android\app\src\main\AndroidManifest.xml
+MERGED from [:image_picker_android] C:\FYP\Flutter\GrowUp\build\image_picker_android\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:image_picker_android] C:\FYP\Flutter\GrowUp\build\image_picker_android\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_plugin_android_lifecycle] C:\FYP\Flutter\GrowUp\build\flutter_plugin_android_lifecycle\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_plugin_android_lifecycle] C:\FYP\Flutter\GrowUp\build\flutter_plugin_android_lifecycle\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:esewa_pnp] C:\FYP\Flutter\GrowUp\build\esewa_pnp\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:esewa_pnp] C:\FYP\Flutter\GrowUp\build\esewa_pnp\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:sqflite] C:\FYP\Flutter\GrowUp\build\sqflite\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:sqflite] C:\FYP\Flutter\GrowUp\build\sqflite\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:url_launcher_android] C:\FYP\Flutter\GrowUp\build\url_launcher_android\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:url_launcher_android] C:\FYP\Flutter\GrowUp\build\url_launcher_android\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:path_provider_android] C:\FYP\Flutter\GrowUp\build\path_provider_android\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:path_provider_android] C:\FYP\Flutter\GrowUp\build\path_provider_android\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_secure_storage] C:\FYP\Flutter\GrowUp\build\flutter_secure_storage\intermediates\library_manifest\debug\AndroidManifest.xml:8:5-11:53
+MERGED from [:flutter_secure_storage] C:\FYP\Flutter\GrowUp\build\flutter_secure_storage\intermediates\library_manifest\debug\AndroidManifest.xml:8:5-11:53
+MERGED from [:connectivity_plus] C:\FYP\Flutter\GrowUp\build\connectivity_plus\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:connectivity_plus] C:\FYP\Flutter\GrowUp\build\connectivity_plus\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:wakelock] C:\FYP\Flutter\GrowUp\build\wakelock\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:wakelock] C:\FYP\Flutter\GrowUp\build\wakelock\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences_android] C:\FYP\Flutter\GrowUp\build\shared_preferences_android\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences_android] C:\FYP\Flutter\GrowUp\build\shared_preferences_android\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:video_thumbnail] C:\FYP\Flutter\GrowUp\build\video_thumbnail\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:video_thumbnail] C:\FYP\Flutter\GrowUp\build\video_thumbnail\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:permission_handler_android] C:\FYP\Flutter\GrowUp\build\permission_handler_android\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:permission_handler_android] C:\FYP\Flutter\GrowUp\build\permission_handler_android\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:share_plus] C:\FYP\Flutter\GrowUp\build\share_plus\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:share_plus] C:\FYP\Flutter\GrowUp\build\share_plus\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_keyboard_visibility] C:\FYP\Flutter\GrowUp\build\flutter_keyboard_visibility\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_keyboard_visibility] C:\FYP\Flutter\GrowUp\build\flutter_keyboard_visibility\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:package_info_plus] C:\FYP\Flutter\GrowUp\build\package_info_plus\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:package_info_plus] C:\FYP\Flutter\GrowUp\build\package_info_plus\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:fluttertoast] C:\FYP\Flutter\GrowUp\build\fluttertoast\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:fluttertoast] C:\FYP\Flutter\GrowUp\build\fluttertoast\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:device_info_plus] C:\FYP\Flutter\GrowUp\build\device_info_plus\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:device_info_plus] C:\FYP\Flutter\GrowUp\build\device_info_plus\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:video_player_android] C:\FYP\Flutter\GrowUp\build\video_player_android\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:video_player_android] C:\FYP\Flutter\GrowUp\build\video_player_android\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_phone_direct_caller] C:\FYP\Flutter\GrowUp\build\flutter_phone_direct_caller\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:flutter_phone_direct_caller] C:\FYP\Flutter\GrowUp\build\flutter_phone_direct_caller\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\nabin\.gradle\caches\transforms-2\files-2.1\a2f650a70b204393ba1526e0273d563e\multidex-2.0.0\AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\nabin\.gradle\caches\transforms-2\files-2.1\a2f650a70b204393ba1526e0273d563e\multidex-2.0.0\AndroidManifest.xml:20:5-43
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\nabin\.gradle\caches\transforms-2\files-2.1\ad201fac15a88598107ec645f351f5b4\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\nabin\.gradle\caches\transforms-2\files-2.1\ad201fac15a88598107ec645f351f5b4\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\nabin\.gradle\caches\transforms-2\files-2.1\03c633e46d75bfb21f082f0417f55161\jetified-window-1.0.0-beta04\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\nabin\.gradle\caches\transforms-2\files-2.1\03c633e46d75bfb21f082f0417f55161\jetified-window-1.0.0-beta04\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.2.0-alpha05] C:\Users\nabin\.gradle\caches\transforms-2\files-2.1\cd22467ac1f90a302c10d674e9ee6905\material-1.2.0-alpha05\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.2.0-alpha05] C:\Users\nabin\.gradle\caches\transforms-2\files-2.1\cd22467ac1f90a302c10d674e9ee6905\material-1.2.0-alpha05\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\nabin\.gradle\caches\transforms-2\files-2.1\6bb69121fbfc7f55675d79a165028fc2\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\nabin\.gradle\caches\transforms-2\files-2.1\6bb69121fbfc7f55675d79a165028fc2\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.security:security-crypto:1.1.0-alpha03] C:\Users\nabin\.gradle\caches\transforms-2\files-2.1\6ce64dc64389423c79e4cc3d3edd2c15\jetified-security-crypto-1.1.0-alpha03\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.security:security-crypto:1.1.0-alpha03] C:\Users\nabin\.gradle\caches\transforms-2\files-2.1\6ce64dc64389423c79e4cc3d3edd2c15\jetified-security-crypto-1.1.0-alpha03\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.7.0] C:\Users\nabin\.gradle\caches\transforms-2\files-2.1\1efe65f6f5da5652bddd1d59d636630d\jetified-core-ktx-1.7.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.7.0] C:\Users\nabin\.gradle\caches\transforms-2\files-2.1\1efe65f6f5da5652bddd1d59d636630d\jetified-core-ktx-1.7.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.0] C:\Users\nabin\.gradle\caches\transforms-2\files-2.1\a0dda19c88b91d185bde1c2434cd4953\exifinterface-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.0] C:\Users\nabin\.gradle\caches\transforms-2\files-2.1\a0dda19c88b91d185bde1c2434cd4953\exifinterface-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.17.1] C:\Users\nabin\.gradle\caches\transforms-2\files-2.1\3bda5006f0da088db4cd11e056b1c724\jetified-exoplayer-hls-2.17.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.17.1] C:\Users\nabin\.gradle\caches\transforms-2\files-2.1\3bda5006f0da088db4cd11e056b1c724\jetified-exoplayer-hls-2.17.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.17.1] C:\Users\nabin\.gradle\caches\transforms-2\files-2.1\b60f216a039b8fd2fc8d79caee003689\jetified-exoplayer-dash-2.17.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.17.1] C:\Users\nabin\.gradle\caches\transforms-2\files-2.1\b60f216a039b8fd2fc8d79caee003689\jetified-exoplayer-dash-2.17.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.17.1] C:\Users\nabin\.gradle\caches\transforms-2\files-2.1\0c0cdee2846edd3719e48cdb23be2272\jetified-exoplayer-smoothstreaming-2.17.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.17.1] C:\Users\nabin\.gradle\caches\transforms-2\files-2.1\0c0cdee2846edd3719e48cdb23be2272\jetified-exoplayer-smoothstreaming-2.17.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.17.1] C:\Users\nabin\.gradle\caches\transforms-2\files-2.1\f81d7720190f110f0e5c11d71f550860\jetified-exoplayer-core-2.17.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.17.1] C:\Users\nabin\.gradle\caches\transforms-2\files-2.1\f81d7720190f110f0e5c11d71f550860\jetified-exoplayer-core-2.17.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\nabin\.gradle\caches\transforms-2\files-2.1\1729610d030977dce8856d24bcddf4c4\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\nabin\.gradle\caches\transforms-2\files-2.1\1729610d030977dce8856d24bcddf4c4\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\nabin\.gradle\caches\transforms-2\files-2.1\8a872343ad72e09c1db9590ff94dc0b1\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\nabin\.gradle\caches\transforms-2\files-2.1\8a872343ad72e09c1db9590ff94dc0b1\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\nabin\.gradle\caches\transforms-2\files-2.1\8601dd65e0c6893d5abc5ccde1e2cab3\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\nabin\.gradle\caches\transforms-2\files-2.1\8601dd65e0c6893d5abc5ccde1e2cab3\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\nabin\.gradle\caches\transforms-2\files-2.1\6c6575c923e75933616af1a602db32e0\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\nabin\.gradle\caches\transforms-2\files-2.1\6c6575c923e75933616af1a602db32e0\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\nabin\.gradle\caches\transforms-2\files-2.1\ea2da72bd5ca4f251f51c345aebba41f\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\nabin\.gradle\caches\transforms-2\files-2.1\ea2da72bd5ca4f251f51c345aebba41f\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\nabin\.gradle\caches\transforms-2\files-2.1\8f80d6dba72e89729b638c53f3294343\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\nabin\.gradle\caches\transforms-2\files-2.1\8f80d6dba72e89729b638c53f3294343\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\nabin\.gradle\caches\transforms-2\files-2.1\f1e0b59fe158728c831983d1881eb36f\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\nabin\.gradle\caches\transforms-2\files-2.1\f1e0b59fe158728c831983d1881eb36f\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\nabin\.gradle\caches\transforms-2\files-2.1\61fd575f974e3d768efc2f6a143e0eae\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\nabin\.gradle\caches\transforms-2\files-2.1\61fd575f974e3d768efc2f6a143e0eae\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\nabin\.gradle\caches\transforms-2\files-2.1\986216458f3c0df423ee68e7f1177976\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\nabin\.gradle\caches\transforms-2\files-2.1\986216458f3c0df423ee68e7f1177976\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\nabin\.gradle\caches\transforms-2\files-2.1\ae39e38aa58f5c391f29a4bfad4a41a4\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\nabin\.gradle\caches\transforms-2\files-2.1\ae39e38aa58f5c391f29a4bfad4a41a4\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\nabin\.gradle\caches\transforms-2\files-2.1\92d1f830d8a4f76d15ea1f849fb6f29f\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\nabin\.gradle\caches\transforms-2\files-2.1\92d1f830d8a4f76d15ea1f849fb6f29f\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\nabin\.gradle\caches\transforms-2\files-2.1\172ae1f46f014e6681a2cc350fa8b737\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\nabin\.gradle\caches\transforms-2\files-2.1\172ae1f46f014e6681a2cc350fa8b737\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\nabin\.gradle\caches\transforms-2\files-2.1\09c1773ed3597f8bec6064dc26d157be\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\nabin\.gradle\caches\transforms-2\files-2.1\09c1773ed3597f8bec6064dc26d157be\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\nabin\.gradle\caches\transforms-2\files-2.1\9416e837706c8050a4b4397a65e9077c\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\nabin\.gradle\caches\transforms-2\files-2.1\9416e837706c8050a4b4397a65e9077c\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\nabin\.gradle\caches\transforms-2\files-2.1\9ccab238727e236e8aff01a0f95cebe4\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\nabin\.gradle\caches\transforms-2\files-2.1\9ccab238727e236e8aff01a0f95cebe4\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.7.0] C:\Users\nabin\.gradle\caches\transforms-2\files-2.1\b9a960218f5163997c0fdfa3d3078c0e\core-1.7.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.7.0] C:\Users\nabin\.gradle\caches\transforms-2\files-2.1\b9a960218f5163997c0fdfa3d3078c0e\core-1.7.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\nabin\.gradle\caches\transforms-2\files-2.1\884708a9396f81808c0ac10f4b98ea32\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\nabin\.gradle\caches\transforms-2\files-2.1\884708a9396f81808c0ac10f4b98ea32\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-datasource:2.17.1] C:\Users\nabin\.gradle\caches\transforms-2\files-2.1\f357c64724341904aa8dd1e6cfa122cd\jetified-exoplayer-datasource-2.17.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-datasource:2.17.1] C:\Users\nabin\.gradle\caches\transforms-2\files-2.1\f357c64724341904aa8dd1e6cfa122cd\jetified-exoplayer-datasource-2.17.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-extractor:2.17.1] C:\Users\nabin\.gradle\caches\transforms-2\files-2.1\c11a2dea3341985e5a3797b52f9e6170\jetified-exoplayer-extractor-2.17.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-extractor:2.17.1] C:\Users\nabin\.gradle\caches\transforms-2\files-2.1\c11a2dea3341985e5a3797b52f9e6170\jetified-exoplayer-extractor-2.17.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-decoder:2.17.1] C:\Users\nabin\.gradle\caches\transforms-2\files-2.1\783fcff2c64bc8f801124b39d5623422\jetified-exoplayer-decoder-2.17.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-decoder:2.17.1] C:\Users\nabin\.gradle\caches\transforms-2\files-2.1\783fcff2c64bc8f801124b39d5623422\jetified-exoplayer-decoder-2.17.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-database:2.17.1] C:\Users\nabin\.gradle\caches\transforms-2\files-2.1\e17b68e256e738562942bc1512b4b5c8\jetified-exoplayer-database-2.17.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-database:2.17.1] C:\Users\nabin\.gradle\caches\transforms-2\files-2.1\e17b68e256e738562942bc1512b4b5c8\jetified-exoplayer-database-2.17.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.17.1] C:\Users\nabin\.gradle\caches\transforms-2\files-2.1\a4b01154a71be27f51343e9e9dd58b68\jetified-exoplayer-common-2.17.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.17.1] C:\Users\nabin\.gradle\caches\transforms-2\files-2.1\a4b01154a71be27f51343e9e9dd58b68\jetified-exoplayer-common-2.17.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\nabin\.gradle\caches\transforms-2\files-2.1\69ba5a98805d81d755806668ff70d04f\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\nabin\.gradle\caches\transforms-2\files-2.1\69ba5a98805d81d755806668ff70d04f\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\nabin\.gradle\caches\transforms-2\files-2.1\8578375fbf5df5bbe65cca21a6cd6acf\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\nabin\.gradle\caches\transforms-2\files-2.1\8578375fbf5df5bbe65cca21a6cd6acf\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\nabin\.gradle\caches\transforms-2\files-2.1\9a0e475eb211916dfa0da9de1d6c02a3\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\nabin\.gradle\caches\transforms-2\files-2.1\9a0e475eb211916dfa0da9de1d6c02a3\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\nabin\.gradle\caches\transforms-2\files-2.1\8d7928c9f52af5f964a662866fcebb3e\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\nabin\.gradle\caches\transforms-2\files-2.1\8d7928c9f52af5f964a662866fcebb3e\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\nabin\.gradle\caches\transforms-2\files-2.1\8108bc8c5f35a568f919dbab3be0e175\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\nabin\.gradle\caches\transforms-2\files-2.1\8108bc8c5f35a568f919dbab3be0e175\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\nabin\.gradle\caches\transforms-2\files-2.1\403e5322101e882ebd13d146c86f92ca\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\nabin\.gradle\caches\transforms-2\files-2.1\403e5322101e882ebd13d146c86f92ca\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\nabin\.gradle\caches\transforms-2\files-2.1\16e110bf603f94cf61f970a18f3907e3\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\nabin\.gradle\caches\transforms-2\files-2.1\16e110bf603f94cf61f970a18f3907e3\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\nabin\.gradle\caches\transforms-2\files-2.1\9ed314abc3df537a2d48c1cb6d65998e\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\nabin\.gradle\caches\transforms-2\files-2.1\9ed314abc3df537a2d48c1cb6d65998e\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:eSewaSdk:] C:\Users\nabin\.gradle\caches\transforms-2\files-2.1\d22478409745de2c4f60e3aa18cfe8f0\jetified-eSewaSdk\AndroidManifest.xml:7:5-9:41
+MERGED from [:eSewaSdk:] C:\Users\nabin\.gradle\caches\transforms-2\files-2.1\d22478409745de2c4f60e3aa18cfe8f0\jetified-eSewaSdk\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\nabin\.gradle\caches\transforms-2\files-2.1\5bfc0955e244073bdc8cc139cda5e092\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\nabin\.gradle\caches\transforms-2\files-2.1\5bfc0955e244073bdc8cc139cda5e092\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\FYP\Flutter\GrowUp\android\app\src\debug\AndroidManifest.xml
+INJECTED from C:\FYP\Flutter\GrowUp\android\app\src\debug\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [:flutter_secure_storage] C:\FYP\Flutter\GrowUp\build\flutter_secure_storage\intermediates\library_manifest\debug\AndroidManifest.xml:11:9-50
+	android:targetSdkVersion
+		INJECTED from C:\FYP\Flutter\GrowUp\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\FYP\Flutter\GrowUp\android\app\src\debug\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\FYP\Flutter\GrowUp\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\FYP\Flutter\GrowUp\android\app\src\debug\AndroidManifest.xml
+provider#io.flutter.plugins.imagepicker.ImagePickerFileProvider
+ADDED from [:image_picker_android] C:\FYP\Flutter\GrowUp\build\image_picker_android\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-16:20
+	android:grantUriPermissions
+		ADDED from [:image_picker_android] C:\FYP\Flutter\GrowUp\build\image_picker_android\intermediates\library_manifest\debug\AndroidManifest.xml:12:13-47
+	android:authorities
+		ADDED from [:image_picker_android] C:\FYP\Flutter\GrowUp\build\image_picker_android\intermediates\library_manifest\debug\AndroidManifest.xml:10:13-74
+	android:exported
+		ADDED from [:image_picker_android] C:\FYP\Flutter\GrowUp\build\image_picker_android\intermediates\library_manifest\debug\AndroidManifest.xml:11:13-37
+	android:name
+		ADDED from [:image_picker_android] C:\FYP\Flutter\GrowUp\build\image_picker_android\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-82
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:image_picker_android] C:\FYP\Flutter\GrowUp\build\image_picker_android\intermediates\library_manifest\debug\AndroidManifest.xml:13:13-15:75
+	android:resource
+		ADDED from [:image_picker_android] C:\FYP\Flutter\GrowUp\build\image_picker_android\intermediates\library_manifest\debug\AndroidManifest.xml:15:17-72
+	android:name
+		ADDED from [:image_picker_android] C:\FYP\Flutter\GrowUp\build\image_picker_android\intermediates\library_manifest\debug\AndroidManifest.xml:14:17-67
+activity#io.flutter.plugins.urllauncher.WebViewActivity
+ADDED from [:url_launcher_android] C:\FYP\Flutter\GrowUp\build\url_launcher_android\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-11:74
+	android:exported
+		ADDED from [:url_launcher_android] C:\FYP\Flutter\GrowUp\build\url_launcher_android\intermediates\library_manifest\debug\AndroidManifest.xml:10:13-37
+	android:theme
+		ADDED from [:url_launcher_android] C:\FYP\Flutter\GrowUp\build\url_launcher_android\intermediates\library_manifest\debug\AndroidManifest.xml:11:13-71
+	android:name
+		ADDED from [:url_launcher_android] C:\FYP\Flutter\GrowUp\build\url_launcher_android\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-74
+provider#dev.fluttercommunity.plus.share.ShareFileProvider
+ADDED from [:share_plus] C:\FYP\Flutter\GrowUp\build\share_plus\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-16:20
+	android:grantUriPermissions
+		ADDED from [:share_plus] C:\FYP\Flutter\GrowUp\build\share_plus\intermediates\library_manifest\debug\AndroidManifest.xml:12:13-47
+	android:authorities
+		ADDED from [:share_plus] C:\FYP\Flutter\GrowUp\build\share_plus\intermediates\library_manifest\debug\AndroidManifest.xml:10:13-74
+	android:exported
+		ADDED from [:share_plus] C:\FYP\Flutter\GrowUp\build\share_plus\intermediates\library_manifest\debug\AndroidManifest.xml:11:13-37
+	android:name
+		ADDED from [:share_plus] C:\FYP\Flutter\GrowUp\build\share_plus\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-77
+uses-permission#android.permission.CALL_PHONE
+ADDED from [:flutter_phone_direct_caller] C:\FYP\Flutter\GrowUp\build\flutter_phone_direct_caller\intermediates\library_manifest\debug\AndroidManifest.xml:9:5-69
+	android:name
+		ADDED from [:flutter_phone_direct_caller] C:\FYP\Flutter\GrowUp\build\flutter_phone_direct_caller\intermediates\library_manifest\debug\AndroidManifest.xml:9:22-66
+uses-feature#android.hardware.telephony
+ADDED from [:flutter_phone_direct_caller] C:\FYP\Flutter\GrowUp\build\flutter_phone_direct_caller\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-13:36
+	android:required
+		ADDED from [:flutter_phone_direct_caller] C:\FYP\Flutter\GrowUp\build\flutter_phone_direct_caller\intermediates\library_manifest\debug\AndroidManifest.xml:13:9-33
+	android:name
+		ADDED from [:flutter_phone_direct_caller] C:\FYP\Flutter\GrowUp\build\flutter_phone_direct_caller\intermediates\library_manifest\debug\AndroidManifest.xml:12:9-50
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\nabin\.gradle\caches\transforms-2\files-2.1\03c633e46d75bfb21f082f0417f55161\jetified-window-1.0.0-beta04\AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\nabin\.gradle\caches\transforms-2\files-2.1\03c633e46d75bfb21f082f0417f55161\jetified-window-1.0.0-beta04\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\nabin\.gradle\caches\transforms-2\files-2.1\03c633e46d75bfb21f082f0417f55161\jetified-window-1.0.0-beta04\AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\nabin\.gradle\caches\transforms-2\files-2.1\03c633e46d75bfb21f082f0417f55161\jetified-window-1.0.0-beta04\AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\nabin\.gradle\caches\transforms-2\files-2.1\03c633e46d75bfb21f082f0417f55161\jetified-window-1.0.0-beta04\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\nabin\.gradle\caches\transforms-2\files-2.1\03c633e46d75bfb21f082f0417f55161\jetified-window-1.0.0-beta04\AndroidManifest.xml:29:13-51
+activity#com.esewa.android.sdk.payment.ESewaLoginActivity
+ADDED from [:eSewaSdk:] C:\Users\nabin\.gradle\caches\transforms-2\files-2.1\d22478409745de2c4f60e3aa18cfe8f0\jetified-eSewaSdk\AndroidManifest.xml:15:9-18:58
+	android:screenOrientation
+		ADDED from [:eSewaSdk:] C:\Users\nabin\.gradle\caches\transforms-2\files-2.1\d22478409745de2c4f60e3aa18cfe8f0\jetified-eSewaSdk\AndroidManifest.xml:17:13-49
+	android:windowSoftInputMode
+		ADDED from [:eSewaSdk:] C:\Users\nabin\.gradle\caches\transforms-2\files-2.1\d22478409745de2c4f60e3aa18cfe8f0\jetified-eSewaSdk\AndroidManifest.xml:18:13-55
+	android:name
+		ADDED from [:eSewaSdk:] C:\Users\nabin\.gradle\caches\transforms-2\files-2.1\d22478409745de2c4f60e3aa18cfe8f0\jetified-eSewaSdk\AndroidManifest.xml:16:13-76
+activity#com.esewa.android.sdk.payment.ESewaPaymentConfirmActivity
+ADDED from [:eSewaSdk:] C:\Users\nabin\.gradle\caches\transforms-2\files-2.1\d22478409745de2c4f60e3aa18cfe8f0\jetified-eSewaSdk\AndroidManifest.xml:19:9-21:52
+	android:screenOrientation
+		ADDED from [:eSewaSdk:] C:\Users\nabin\.gradle\caches\transforms-2\files-2.1\d22478409745de2c4f60e3aa18cfe8f0\jetified-eSewaSdk\AndroidManifest.xml:21:13-49
+	android:name
+		ADDED from [:eSewaSdk:] C:\Users\nabin\.gradle\caches\transforms-2\files-2.1\d22478409745de2c4f60e3aa18cfe8f0\jetified-eSewaSdk\AndroidManifest.xml:20:13-85
+activity#com.esewa.android.sdk.payment.ESewaPaymentActivity
+ADDED from [:eSewaSdk:] C:\Users\nabin\.gradle\caches\transforms-2\files-2.1\d22478409745de2c4f60e3aa18cfe8f0\jetified-eSewaSdk\AndroidManifest.xml:22:9-24:52
+	android:screenOrientation
+		ADDED from [:eSewaSdk:] C:\Users\nabin\.gradle\caches\transforms-2\files-2.1\d22478409745de2c4f60e3aa18cfe8f0\jetified-eSewaSdk\AndroidManifest.xml:24:13-49
+	android:name
+		ADDED from [:eSewaSdk:] C:\Users\nabin\.gradle\caches\transforms-2\files-2.1\d22478409745de2c4f60e3aa18cfe8f0\jetified-eSewaSdk\AndroidManifest.xml:23:13-78
+uses-library#org.apache.http.legacy
+ADDED from [:eSewaSdk:] C:\Users\nabin\.gradle\caches\transforms-2\files-2.1\d22478409745de2c4f60e3aa18cfe8f0\jetified-eSewaSdk\AndroidManifest.xml:26:9-28:40
+	android:required
+		ADDED from [:eSewaSdk:] C:\Users\nabin\.gradle\caches\transforms-2\files-2.1\d22478409745de2c4f60e3aa18cfe8f0\jetified-eSewaSdk\AndroidManifest.xml:28:13-37
+	android:name
+		ADDED from [:eSewaSdk:] C:\Users\nabin\.gradle\caches\transforms-2\files-2.1\d22478409745de2c4f60e3aa18cfe8f0\jetified-eSewaSdk\AndroidManifest.xml:27:13-50

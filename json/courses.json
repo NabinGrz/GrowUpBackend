@@ -1,0 +1,56 @@
+[
+    {
+        "skill": "Development",
+        "name": "The Complete Mobile Application Development",
+        "imageUrl": "images/mobileapplication.png",
+        "noOfVideos": 10
+    },
+    {
+        "skill": "Development",
+        "name": "Web Development Masterclass",
+        "imageUrl": "images/webapplication.png",
+        "noOfVideos": 10
+    },
+    {
+        "skill": "Development",
+        "name": "Ultimate Python Course",
+        "imageUrl": "images/python.png",
+        "noOfVideos": 10
+    },
+    {
+        "skill": "Design",
+        "name": "Illustrator 2022 Masterclass",
+        "imageUrl": "images/graphicdesigning.png",
+        "noOfVideos": 10
+    },
+    {
+        "skill": "Design",
+        "name": "Ultimate Adobe Photoshop",
+        "imageUrl": "images/photoshop.png",
+        "noOfVideos": 10
+    },
+    {
+        "skill": "Design",
+        "name": "Learn 3d Modelling",
+        "imageUrl": "images/3dmodelling.png",
+        "noOfVideos": 10
+    },
+    {
+        "skill": "Marketing",
+        "name": "Complete Digital Marketing Course",
+        "imageUrl": "images/digitalmarketing.png",
+        "noOfVideos": 10
+    },
+    {
+        "skill": "Marketing",
+        "name": "Social Media Marketing 2022",
+        "imageUrl": "images/socialmedia.png",
+        "noOfVideos": 10
+    },
+    {
+        "skill": "Marketing",
+        "name": "Ultimate Google Ads Training",
+        "imageUrl": "images/googlead.png",
+        "noOfVideos": 10
+    }
+]

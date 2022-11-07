@@ -1,0 +1,258 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.growup"
+4    android:versionCode="1"
+5    android:versionName="1.0.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="18"
+9        android:targetSdkVersion="30" />
+10    <!--
+11         Flutter needs it to communicate with the running application
+12         to allow setting breakpoints, to provide hot reload, etc.
+13    -->
+14    <uses-permission android:name="android.permission.INTERNET" />
+14-->C:\FYP\Flutter\GrowUp\android\app\src\main\AndroidManifest.xml:3:5-67
+14-->C:\FYP\Flutter\GrowUp\android\app\src\main\AndroidManifest.xml:3:22-64
+15    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+15-->C:\FYP\Flutter\GrowUp\android\app\src\main\AndroidManifest.xml:4:1-75
+15-->C:\FYP\Flutter\GrowUp\android\app\src\main\AndroidManifest.xml:4:18-72
+16    <uses-permission android:name="android.permission.QUERY_ALL_PACKAGES" />
+16-->C:\FYP\Flutter\GrowUp\android\app\src\main\AndroidManifest.xml:5:1-73
+16-->C:\FYP\Flutter\GrowUp\android\app\src\main\AndroidManifest.xml:5:18-70
+17
+18    <queries>
+18-->C:\FYP\Flutter\GrowUp\android\app\src\main\AndroidManifest.xml:6:1-19:11
+19        <intent>
+19-->C:\FYP\Flutter\GrowUp\android\app\src\main\AndroidManifest.xml:7:5-10:14
+20            <action android:name="android.intent.action.VIEW" />
+20-->C:\FYP\Flutter\GrowUp\android\app\src\main\AndroidManifest.xml:8:9-61
+20-->C:\FYP\Flutter\GrowUp\android\app\src\main\AndroidManifest.xml:8:17-58
+21
+22            <data android:scheme="https" />
+22-->C:\FYP\Flutter\GrowUp\android\app\src\main\AndroidManifest.xml:9:9-40
+22-->C:\FYP\Flutter\GrowUp\android\app\src\main\AndroidManifest.xml:9:15-37
+23        </intent>
+24        <intent>
+24-->C:\FYP\Flutter\GrowUp\android\app\src\main\AndroidManifest.xml:11:5-14:14
+25            <action android:name="android.intent.action.DIAL" />
+25-->C:\FYP\Flutter\GrowUp\android\app\src\main\AndroidManifest.xml:12:9-61
+25-->C:\FYP\Flutter\GrowUp\android\app\src\main\AndroidManifest.xml:12:17-58
+26
+27            <data android:scheme="tel" />
+27-->C:\FYP\Flutter\GrowUp\android\app\src\main\AndroidManifest.xml:9:9-40
+27-->C:\FYP\Flutter\GrowUp\android\app\src\main\AndroidManifest.xml:9:15-37
+28        </intent>
+29        <intent>
+29-->C:\FYP\Flutter\GrowUp\android\app\src\main\AndroidManifest.xml:15:5-18:14
+30            <action android:name="android.intent.action.SEND" />
+30-->C:\FYP\Flutter\GrowUp\android\app\src\main\AndroidManifest.xml:16:9-61
+30-->C:\FYP\Flutter\GrowUp\android\app\src\main\AndroidManifest.xml:16:17-58
+31
+32            <data android:mimeType="*/*" />
+32-->C:\FYP\Flutter\GrowUp\android\app\src\main\AndroidManifest.xml:9:9-40
+33        </intent>
+34    </queries>
+35
+36    <uses-permission android:name="android.permission.CALL_PHONE" />
+36-->[:flutter_phone_direct_caller] C:\FYP\Flutter\GrowUp\build\flutter_phone_direct_caller\intermediates\library_manifest\debug\AndroidManifest.xml:9:5-69
+36-->[:flutter_phone_direct_caller] C:\FYP\Flutter\GrowUp\build\flutter_phone_direct_caller\intermediates\library_manifest\debug\AndroidManifest.xml:9:22-66
+37
+38    <uses-feature
+38-->[:flutter_phone_direct_caller] C:\FYP\Flutter\GrowUp\build\flutter_phone_direct_caller\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-13:36
+39        android:name="android.hardware.telephony"
+39-->[:flutter_phone_direct_caller] C:\FYP\Flutter\GrowUp\build\flutter_phone_direct_caller\intermediates\library_manifest\debug\AndroidManifest.xml:12:9-50
+40        android:required="false" />
+40-->[:flutter_phone_direct_caller] C:\FYP\Flutter\GrowUp\build\flutter_phone_direct_caller\intermediates\library_manifest\debug\AndroidManifest.xml:13:9-33
+41
+42    <application
+42-->C:\FYP\Flutter\GrowUp\android\app\src\main\AndroidManifest.xml:20:4-65:19
+43        android:name="androidx.multidex.MultiDexApplication"
+44        android:allowBackup="true"
+44-->[:eSewaSdk:] C:\Users\nabin\.gradle\caches\transforms-2\files-2.1\d22478409745de2c4f60e3aa18cfe8f0\jetified-eSewaSdk\AndroidManifest.xml:14:18-44
+45        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+45-->[androidx.core:core:1.7.0] C:\Users\nabin\.gradle\caches\transforms-2\files-2.1\b9a960218f5163997c0fdfa3d3078c0e\core-1.7.0\AndroidManifest.xml:24:18-86
+46        android:debuggable="true"
+47        android:icon="@mipmap/ic_launcher"
+47-->C:\FYP\Flutter\GrowUp\android\app\src\main\AndroidManifest.xml:23:9-43
+48        android:label="GrowUp"
+48-->C:\FYP\Flutter\GrowUp\android\app\src\main\AndroidManifest.xml:22:9-31
+49        android:theme="@style/Theme.AppCompat.Light.NoActionBar" >
+49-->C:\FYP\Flutter\GrowUp\android\app\src\main\AndroidManifest.xml:21:4-60
+50        <activity
+50-->C:\FYP\Flutter\GrowUp\android\app\src\main\AndroidManifest.xml:24:9-59:20
+51            android:name="com.example.growup.MainActivity"
+51-->C:\FYP\Flutter\GrowUp\android\app\src\main\AndroidManifest.xml:25:13-41
+52            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|smallestScreenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"
+52-->C:\FYP\Flutter\GrowUp\android\app\src\main\AndroidManifest.xml:28:13-163
+53            android:hardwareAccelerated="true"
+53-->C:\FYP\Flutter\GrowUp\android\app\src\main\AndroidManifest.xml:29:13-47
+54            android:launchMode="singleTop"
+54-->C:\FYP\Flutter\GrowUp\android\app\src\main\AndroidManifest.xml:26:13-43
+55            android:theme="@style/LaunchTheme"
+55-->C:\FYP\Flutter\GrowUp\android\app\src\main\AndroidManifest.xml:27:13-47
+56            android:windowSoftInputMode="adjustResize" >
+56-->C:\FYP\Flutter\GrowUp\android\app\src\main\AndroidManifest.xml:30:13-55
+57            <meta-data
+57-->C:\FYP\Flutter\GrowUp\android\app\src\main\AndroidManifest.xml:31:14-91
+58                android:name="flutter_deeplinking_enabled"
+58-->C:\FYP\Flutter\GrowUp\android\app\src\main\AndroidManifest.xml:31:25-67
+59                android:value="true" />
+59-->C:\FYP\Flutter\GrowUp\android\app\src\main\AndroidManifest.xml:31:68-88
+60
+61            <intent-filter android:autoVerify="true" >
+61-->C:\FYP\Flutter\GrowUp\android\app\src\main\AndroidManifest.xml:32:1-37:17
+61-->C:\FYP\Flutter\GrowUp\android\app\src\main\AndroidManifest.xml:32:16-41
+62                <action android:name="android.intent.action.VIEW" />
+62-->C:\FYP\Flutter\GrowUp\android\app\src\main\AndroidManifest.xml:8:9-61
+62-->C:\FYP\Flutter\GrowUp\android\app\src\main\AndroidManifest.xml:8:17-58
+63
+64                <category android:name="android.intent.category.DEFAULT" />
+64-->C:\FYP\Flutter\GrowUp\android\app\src\main\AndroidManifest.xml:34:5-64
+64-->C:\FYP\Flutter\GrowUp\android\app\src\main\AndroidManifest.xml:34:15-61
+65                <category android:name="android.intent.category.BROWSABLE" />
+65-->C:\FYP\Flutter\GrowUp\android\app\src\main\AndroidManifest.xml:35:5-66
+65-->C:\FYP\Flutter\GrowUp\android\app\src\main\AndroidManifest.xml:35:15-63
+66
+67                <data
+67-->C:\FYP\Flutter\GrowUp\android\app\src\main\AndroidManifest.xml:9:9-40
+68                    android:host="{your package name}"
+69                    android:scheme="kpg" />
+69-->C:\FYP\Flutter\GrowUp\android\app\src\main\AndroidManifest.xml:9:15-37
+70            </intent-filter>
+71            <!--
+72                 Specifies an Android theme to apply to this Activity as soon as
+73                 the Android process has started. This theme is visible to the user
+74                 while the Flutter UI initializes. After that, this theme continues
+75                 to determine the Window background behind the Flutter UI.
+76            -->
+77            <meta-data
+77-->C:\FYP\Flutter\GrowUp\android\app\src\main\AndroidManifest.xml:42:13-45:17
+78                android:name="io.flutter.embedding.android.NormalTheme"
+78-->C:\FYP\Flutter\GrowUp\android\app\src\main\AndroidManifest.xml:43:15-70
+79                android:resource="@style/NormalTheme" />
+79-->C:\FYP\Flutter\GrowUp\android\app\src\main\AndroidManifest.xml:44:15-52
+80            <!--
+81                 Displays an Android View that continues showing the launch screen
+82                 Drawable until Flutter paints its first frame, then this splash
+83                 screen fades out. A splash screen is useful to avoid any visual
+84                 gap between the end of Android's launch screen and the painting of
+85                 Flutter's first frame.
+86            -->
+87            <meta-data
+87-->C:\FYP\Flutter\GrowUp\android\app\src\main\AndroidManifest.xml:51:13-54:17
+88                android:name="io.flutter.embedding.android.SplashScreenDrawable"
+88-->C:\FYP\Flutter\GrowUp\android\app\src\main\AndroidManifest.xml:52:15-79
+89                android:resource="@drawable/launch_background" />
+89-->C:\FYP\Flutter\GrowUp\android\app\src\main\AndroidManifest.xml:53:15-61
+90
+91            <intent-filter>
+91-->C:\FYP\Flutter\GrowUp\android\app\src\main\AndroidManifest.xml:55:13-58:29
+92                <action android:name="android.intent.action.MAIN" />
+92-->C:\FYP\Flutter\GrowUp\android\app\src\main\AndroidManifest.xml:56:17-68
+92-->C:\FYP\Flutter\GrowUp\android\app\src\main\AndroidManifest.xml:56:25-66
+93
+94                <category android:name="android.intent.category.LAUNCHER" />
+94-->C:\FYP\Flutter\GrowUp\android\app\src\main\AndroidManifest.xml:57:17-76
+94-->C:\FYP\Flutter\GrowUp\android\app\src\main\AndroidManifest.xml:57:27-74
+95            </intent-filter>
+96        </activity>
+97        <!--
+98             Don't delete the meta-data below.
+99             This is used by the Flutter tool to generate GeneratedPluginRegistrant.java
+100        -->
+101        <meta-data
+101-->C:\FYP\Flutter\GrowUp\android\app\src\main\AndroidManifest.xml:62:9-64:33
+102            android:name="flutterEmbedding"
+102-->C:\FYP\Flutter\GrowUp\android\app\src\main\AndroidManifest.xml:63:13-44
+103            android:value="2" />
+103-->C:\FYP\Flutter\GrowUp\android\app\src\main\AndroidManifest.xml:64:13-30
+104
+105        <provider
+105-->[:image_picker_android] C:\FYP\Flutter\GrowUp\build\image_picker_android\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-16:20
+106            android:name="io.flutter.plugins.imagepicker.ImagePickerFileProvider"
+106-->[:image_picker_android] C:\FYP\Flutter\GrowUp\build\image_picker_android\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-82
+107            android:authorities="com.example.growup.flutter.image_provider"
+107-->[:image_picker_android] C:\FYP\Flutter\GrowUp\build\image_picker_android\intermediates\library_manifest\debug\AndroidManifest.xml:10:13-74
+108            android:exported="false"
+108-->[:image_picker_android] C:\FYP\Flutter\GrowUp\build\image_picker_android\intermediates\library_manifest\debug\AndroidManifest.xml:11:13-37
+109            android:grantUriPermissions="true" >
+109-->[:image_picker_android] C:\FYP\Flutter\GrowUp\build\image_picker_android\intermediates\library_manifest\debug\AndroidManifest.xml:12:13-47
+110            <meta-data
+110-->[:image_picker_android] C:\FYP\Flutter\GrowUp\build\image_picker_android\intermediates\library_manifest\debug\AndroidManifest.xml:13:13-15:75
+111                android:name="android.support.FILE_PROVIDER_PATHS"
+111-->[:image_picker_android] C:\FYP\Flutter\GrowUp\build\image_picker_android\intermediates\library_manifest\debug\AndroidManifest.xml:14:17-67
+112                android:resource="@xml/flutter_image_picker_file_paths" />
+112-->[:image_picker_android] C:\FYP\Flutter\GrowUp\build\image_picker_android\intermediates\library_manifest\debug\AndroidManifest.xml:15:17-72
+113        </provider>
+114
+115        <activity
+115-->[:url_launcher_android] C:\FYP\Flutter\GrowUp\build\url_launcher_android\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-11:74
+116            android:name="io.flutter.plugins.urllauncher.WebViewActivity"
+116-->[:url_launcher_android] C:\FYP\Flutter\GrowUp\build\url_launcher_android\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-74
+117            android:exported="false"
+117-->[:url_launcher_android] C:\FYP\Flutter\GrowUp\build\url_launcher_android\intermediates\library_manifest\debug\AndroidManifest.xml:10:13-37
+118            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" />
+118-->[:url_launcher_android] C:\FYP\Flutter\GrowUp\build\url_launcher_android\intermediates\library_manifest\debug\AndroidManifest.xml:11:13-71
+119
+120        <provider
+120-->[:share_plus] C:\FYP\Flutter\GrowUp\build\share_plus\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-16:20
+121            android:name="dev.fluttercommunity.plus.share.ShareFileProvider"
+121-->[:share_plus] C:\FYP\Flutter\GrowUp\build\share_plus\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-77
+122            android:authorities="com.example.growup.flutter.share_provider"
+122-->[:share_plus] C:\FYP\Flutter\GrowUp\build\share_plus\intermediates\library_manifest\debug\AndroidManifest.xml:10:13-74
+123            android:exported="false"
+123-->[:share_plus] C:\FYP\Flutter\GrowUp\build\share_plus\intermediates\library_manifest\debug\AndroidManifest.xml:11:13-37
+124            android:grantUriPermissions="true" >
+124-->[:share_plus] C:\FYP\Flutter\GrowUp\build\share_plus\intermediates\library_manifest\debug\AndroidManifest.xml:12:13-47
+125            <meta-data
+125-->[:image_picker_android] C:\FYP\Flutter\GrowUp\build\image_picker_android\intermediates\library_manifest\debug\AndroidManifest.xml:13:13-15:75
+126                android:name="android.support.FILE_PROVIDER_PATHS"
+126-->[:image_picker_android] C:\FYP\Flutter\GrowUp\build\image_picker_android\intermediates\library_manifest\debug\AndroidManifest.xml:14:17-67
+127                android:resource="@xml/flutter_share_file_paths" />
+127-->[:image_picker_android] C:\FYP\Flutter\GrowUp\build\image_picker_android\intermediates\library_manifest\debug\AndroidManifest.xml:15:17-72
+128        </provider>
+129
+130        <uses-library
+130-->[androidx.window:window:1.0.0-beta04] C:\Users\nabin\.gradle\caches\transforms-2\files-2.1\03c633e46d75bfb21f082f0417f55161\jetified-window-1.0.0-beta04\AndroidManifest.xml:25:9-27:40
+131            android:name="androidx.window.extensions"
+131-->[androidx.window:window:1.0.0-beta04] C:\Users\nabin\.gradle\caches\transforms-2\files-2.1\03c633e46d75bfb21f082f0417f55161\jetified-window-1.0.0-beta04\AndroidManifest.xml:26:13-54
+132            android:required="false" />
+132-->[androidx.window:window:1.0.0-beta04] C:\Users\nabin\.gradle\caches\transforms-2\files-2.1\03c633e46d75bfb21f082f0417f55161\jetified-window-1.0.0-beta04\AndroidManifest.xml:27:13-37
+133        <uses-library
+133-->[androidx.window:window:1.0.0-beta04] C:\Users\nabin\.gradle\caches\transforms-2\files-2.1\03c633e46d75bfb21f082f0417f55161\jetified-window-1.0.0-beta04\AndroidManifest.xml:28:9-30:40
+134            android:name="androidx.window.sidecar"
+134-->[androidx.window:window:1.0.0-beta04] C:\Users\nabin\.gradle\caches\transforms-2\files-2.1\03c633e46d75bfb21f082f0417f55161\jetified-window-1.0.0-beta04\AndroidManifest.xml:29:13-51
+135            android:required="false" />
+135-->[androidx.window:window:1.0.0-beta04] C:\Users\nabin\.gradle\caches\transforms-2\files-2.1\03c633e46d75bfb21f082f0417f55161\jetified-window-1.0.0-beta04\AndroidManifest.xml:30:13-37
+136
+137        <activity
+137-->[:eSewaSdk:] C:\Users\nabin\.gradle\caches\transforms-2\files-2.1\d22478409745de2c4f60e3aa18cfe8f0\jetified-eSewaSdk\AndroidManifest.xml:15:9-18:58
+138            android:name="com.esewa.android.sdk.payment.ESewaLoginActivity"
+138-->[:eSewaSdk:] C:\Users\nabin\.gradle\caches\transforms-2\files-2.1\d22478409745de2c4f60e3aa18cfe8f0\jetified-eSewaSdk\AndroidManifest.xml:16:13-76
+139            android:screenOrientation="portrait"
+139-->[:eSewaSdk:] C:\Users\nabin\.gradle\caches\transforms-2\files-2.1\d22478409745de2c4f60e3aa18cfe8f0\jetified-eSewaSdk\AndroidManifest.xml:17:13-49
+140            android:windowSoftInputMode="adjustResize" />
+140-->[:eSewaSdk:] C:\Users\nabin\.gradle\caches\transforms-2\files-2.1\d22478409745de2c4f60e3aa18cfe8f0\jetified-eSewaSdk\AndroidManifest.xml:18:13-55
+141        <activity
+141-->[:eSewaSdk:] C:\Users\nabin\.gradle\caches\transforms-2\files-2.1\d22478409745de2c4f60e3aa18cfe8f0\jetified-eSewaSdk\AndroidManifest.xml:19:9-21:52
+142            android:name="com.esewa.android.sdk.payment.ESewaPaymentConfirmActivity"
+142-->[:eSewaSdk:] C:\Users\nabin\.gradle\caches\transforms-2\files-2.1\d22478409745de2c4f60e3aa18cfe8f0\jetified-eSewaSdk\AndroidManifest.xml:20:13-85
+143            android:screenOrientation="portrait" />
+143-->[:eSewaSdk:] C:\Users\nabin\.gradle\caches\transforms-2\files-2.1\d22478409745de2c4f60e3aa18cfe8f0\jetified-eSewaSdk\AndroidManifest.xml:21:13-49
+144        <activity
+144-->[:eSewaSdk:] C:\Users\nabin\.gradle\caches\transforms-2\files-2.1\d22478409745de2c4f60e3aa18cfe8f0\jetified-eSewaSdk\AndroidManifest.xml:22:9-24:52
+145            android:name="com.esewa.android.sdk.payment.ESewaPaymentActivity"
+145-->[:eSewaSdk:] C:\Users\nabin\.gradle\caches\transforms-2\files-2.1\d22478409745de2c4f60e3aa18cfe8f0\jetified-eSewaSdk\AndroidManifest.xml:23:13-78
+146            android:screenOrientation="portrait" />
+146-->[:eSewaSdk:] C:\Users\nabin\.gradle\caches\transforms-2\files-2.1\d22478409745de2c4f60e3aa18cfe8f0\jetified-eSewaSdk\AndroidManifest.xml:24:13-49
+147
+148        <uses-library
+148-->[:eSewaSdk:] C:\Users\nabin\.gradle\caches\transforms-2\files-2.1\d22478409745de2c4f60e3aa18cfe8f0\jetified-eSewaSdk\AndroidManifest.xml:26:9-28:40
+149            android:name="org.apache.http.legacy"
+149-->[:eSewaSdk:] C:\Users\nabin\.gradle\caches\transforms-2\files-2.1\d22478409745de2c4f60e3aa18cfe8f0\jetified-eSewaSdk\AndroidManifest.xml:27:13-50
+150            android:required="false" />
+150-->[:eSewaSdk:] C:\Users\nabin\.gradle\caches\transforms-2\files-2.1\d22478409745de2c4f60e3aa18cfe8f0\jetified-eSewaSdk\AndroidManifest.xml:28:13-37
+151    </application>
+152
+153</manifest>

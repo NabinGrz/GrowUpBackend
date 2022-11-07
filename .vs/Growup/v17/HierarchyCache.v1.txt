@@ -1,0 +1,664 @@
+﻿++Solution 'Growup' ‎(1 of 1 project)
+i:{00000000-0000-0000-0000-000000000000}:Growup.sln
+++Growup
+i:{00000000-0000-0000-0000-000000000000}:Growup
+++Connected Services 
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:>2363
+++Dependencies
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:>2362
+++Properties
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\properties\
+++wwwroot
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\
+++Controllers
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\controllers\
+++AccountController.cs
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\controllers\accountcontroller.cs
+++HomeController.cs
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\controllers\homecontroller.cs
+++MainController.cs
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\controllers\maincontroller.cs
+++Data
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\data\
+++GrowupDbContext.cs
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\data\growupdbcontext.cs
+++DTOs
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\dtos\
+++Migrations
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\migrations\
+++20220208104241_PopulateUserRole.cs
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\migrations\20220208104241_populateuserrole.cs
+++20220410114909_InitialCreate.cs.cs
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\migrations\20220410114909_initialcreate.cs.cs
+++20220411132327_AddVidName.cs.cs
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\migrations\20220411132327_addvidname.cs.cs
+++20220411133908_AddVidThumbnail.cs.cs
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\migrations\20220411133908_addvidthumbnail.cs.cs
+++20220530063447_Schedule.cs
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\migrations\20220530063447_schedule.cs
+++20220530064157_ChgSchedule.cs
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\migrations\20220530064157_chgschedule.cs
+++20220530065945_BSchedule.cs
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\migrations\20220530065945_bschedule.cs
+++20220530131549_AddedDate.cs
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\migrations\20220530131549_addeddate.cs
+++20220530131549_AddedDate.Designer.cs
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\migrations\20220530131549_addeddate.designer.cs
+++GrowupDbContextModelSnapshot.cs
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\migrations\growupdbcontextmodelsnapshot.cs
+++Models
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\models\
+++ApplicationUser.cs
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\models\applicationuser.cs
+++Booking.cs
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\models\booking.cs
+++Comment.cs
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\models\comment.cs
+++Exam.cs
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\models\exam.cs
+++NewsFeed.cs
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\models\newsfeed.cs
+++NewsFeedRating.cs
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\models\newsfeedrating.cs
+++Option.cs
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\models\option.cs
+++Question.cs
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\models\question.cs
+++Schedule.cs
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\models\schedule.cs
+++Skill.cs
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\models\skill.cs
+++SkillCategory.cs
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\models\skillcategory.cs
+++TeacherRating.cs
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\models\teacherrating.cs
+++Test.cs
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\models\test.cs
+++TestOptions.cs
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\models\testoptions.cs
+++VideoRating.cs
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\models\videorating.cs
+++Videos.cs
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\models\videos.cs
+++Pages
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\pages\
+++ResetPassword.cshtml
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\pages\resetpassword.cshtml
+++repository
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\repository\
+++IMainRepository.cs
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\repository\imainrepository.cs
+++MainRepository.cs
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\repository\mainrepository.cs
+++Services
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\services\
+++IMailService.cs
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\services\imailservice.cs
+++IUserService.cs
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\services\iuserservice.cs
+++MailService.cs
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\services\mailservice.cs
+++UserService.cs
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\services\userservice.cs
+++appsettings.json
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\appsettings.json
+++Program.cs
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\program.cs
+++Startup.cs
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\startup.cs
+++web.config
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\web.config
+++No service dependencies discovered
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:>2364
+++Analyzers
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:analyzers
+++Microsoft.AspNetCore.Analyzers
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\users\nabin\.nuget\packages\microsoft.entityframeworkcore.analyzers\5.0.13\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Frameworks
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:frameworks
+++Packages
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:packages
+++PublishProfiles
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\properties\publishprofiles\
+++launchSettings.json
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\properties\launchsettings.json
+++Media
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\
+++AccountUpdateVM.cs
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\dtos\accountupdatevm.cs
+++LoginViewModel.cs
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\dtos\loginviewmodel.cs
+++RegisterViewModel.cs
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\dtos\registerviewmodel.cs
+++ResetPasswordViewModel.cs
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\dtos\resetpasswordviewmodel.cs
+++UpdateProfileVM.cs
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\dtos\updateprofilevm.cs
+++UserResponse.cs
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\dtos\userresponse.cs
+++20220208104241_PopulateUserRole.Designer.cs
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\migrations\20220208104241_populateuserrole.designer.cs
+++20220410114909_InitialCreate.cs.Designer.cs
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\migrations\20220410114909_initialcreate.cs.designer.cs
+++20220411132327_AddVidName.cs.Designer.cs
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\migrations\20220411132327_addvidname.cs.designer.cs
+++20220411133908_AddVidThumbnail.cs.Designer.cs
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\migrations\20220411133908_addvidthumbnail.cs.designer.cs
+++20220530063447_Schedule.Designer.cs
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\migrations\20220530063447_schedule.designer.cs
+++20220530064157_ChgSchedule.Designer.cs
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\migrations\20220530064157_chgschedule.designer.cs
+++20220530065945_BSchedule.Designer.cs
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\migrations\20220530065945_bschedule.designer.cs
+++ResetPassword.cshtml.cs
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\pages\resetpassword.cshtml.cs
+++appsettings.Development.json
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\appsettings.development.json
+++Microsoft.AspNetCore.App
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\microsoft.aspnetcore.app
+++Microsoft.NETCore.App
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\microsoft.netcore.app
+++Microsoft.AspNetCore.Authentication.JwtBearer (3.1.22)
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:>2382
+++Microsoft.AspNetCore.Identity (1.1.6)
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:>2377
+++Microsoft.AspNetCore.Identity.EntityFrameworkCore (5.0.13)
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:>2381
+++Microsoft.AspNetCore.Mvc.NewtonsoftJson (3.1.10)
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:>2380
+++Microsoft.EntityFrameworkCore (5.0.13)
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:>2374
+++Microsoft.EntityFrameworkCore.SqlServer (5.0.13)
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:>2375
+++Microsoft.EntityFrameworkCore.Tools (5.0.13)
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:>2383
+++Swashbuckle.AspNetCore (6.2.3)
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:>2376
+++Swashbuckle.AspNetCore.SwaggerGen (6.2.3)
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:>2379
+++Swashbuckle.AspNetCore.SwaggerUI (6.2.3)
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:>2384
+++Swashbuckle.Core (5.6.0)
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:>2378
+++FolderProfile.pubxml
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\properties\publishprofiles\folderprofile.pubxml
+++Images
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\images\
+++Videos
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\videos\
+++0703a0f1-70a2-41b4-8235-158bfe52b6dbScreenshot_3.png
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\images\0703a0f1-70a2-41b4-8235-158bfe52b6dbscreenshot_3.png
+++089d9aa6-f8c4-42c4-9b4e-60df98fb08bcScreenshot_2.png
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\images\089d9aa6-f8c4-42c4-9b4e-60df98fb08bcscreenshot_2.png
+++08d6bc7d-2a59-44be-86ed-d1bbe63a68dfwebapplication.png
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\images\08d6bc7d-2a59-44be-86ed-d1bbe63a68dfwebapplication.png
+++09ecf156-8b73-482e-8a2a-9a09b9f76a8bScreenshot_3.png
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\images\09ecf156-8b73-482e-8a2a-9a09b9f76a8bscreenshot_3.png
+++0a0b4add-352c-492e-bb8e-c0a82d27ee61Screenshot_2.png
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\images\0a0b4add-352c-492e-bb8e-c0a82d27ee61screenshot_2.png
+++0af31409-90e9-4a3c-9b52-a26557ca864bscaled_image_picker1862072753766138368.jpg
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\images\0af31409-90e9-4a3c-9b52-a26557ca864bscaled_image_picker1862072753766138368.jpg
+++0cdcd9b4-15b1-4532-8369-81b22d7a02f93dmodelling.png
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\images\0cdcd9b4-15b1-4532-8369-81b22d7a02f93dmodelling.png
+++104f337d-35cf-4a6d-a81d-a88131938c9bScreenshot_5.png
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\images\104f337d-35cf-4a6d-a81d-a88131938c9bscreenshot_5.png
+++10829a4a-e837-4816-b7f1-a001930bb7b3Screenshot_4.png
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\images\10829a4a-e837-4816-b7f1-a001930bb7b3screenshot_4.png
+++17b6ca77-dc92-4e9c-a1f5-a53f798569b1scaled_9844667c-6658-477c-b4b0-f1f2231d91782808400598543059040.jpg
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\images\17b6ca77-dc92-4e9c-a1f5-a53f798569b1scaled_9844667c-6658-477c-b4b0-f1f2231d91782808400598543059040.jpg
+++1ccf7f5f-dd4e-41c3-b3be-0e02ae1b191cScreenshot_2.png
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\images\1ccf7f5f-dd4e-41c3-b3be-0e02ae1b191cscreenshot_2.png
+++1cf39287-a3e8-4c37-bfa7-6c504b88fb11scaled_image_picker593098778353740903.png
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\images\1cf39287-a3e8-4c37-bfa7-6c504b88fb11scaled_image_picker593098778353740903.png
+++204a482b-390b-44bc-b73e-0c8b2eb33c01scaled_59691387-6761-4818-b990-defeca3f09297673665071823354863.jpg
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\images\204a482b-390b-44bc-b73e-0c8b2eb33c01scaled_59691387-6761-4818-b990-defeca3f09297673665071823354863.jpg
+++22001d39-42ed-4a7d-9043-b7d05be27afdscaled_9844667c-6658-477c-b4b0-f1f2231d91782808400598543059040.jpg
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\images\22001d39-42ed-4a7d-9043-b7d05be27afdscaled_9844667c-6658-477c-b4b0-f1f2231d91782808400598543059040.jpg
+++2d0208af-62c4-4e9d-96b8-2d123d613cefScreenshot_3.png
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\images\2d0208af-62c4-4e9d-96b8-2d123d613cefscreenshot_3.png
+++2da30fae-1ea2-416d-ace2-0e3eb55d2882pho.PNG
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\images\2da30fae-1ea2-416d-ace2-0e3eb55d2882pho.png
+++2f749af5-1105-4afd-b38d-790ad7b2916cscaled_b12ab663-071e-49c3-ada9-5e6b813ff1ed7505984556486864361.jpg
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\images\2f749af5-1105-4afd-b38d-790ad7b2916cscaled_b12ab663-071e-49c3-ada9-5e6b813ff1ed7505984556486864361.jpg
+++305dde74-fba9-4e8f-ae15-3853bb42a6e1pho.PNG
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\images\305dde74-fba9-4e8f-ae15-3853bb42a6e1pho.png
+++31f595a5-10e3-452b-b3f3-d0ef29169d49mobileapplication.png
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\images\31f595a5-10e3-452b-b3f3-d0ef29169d49mobileapplication.png
+++321de1ee-3820-48c4-adae-9e21d681536fscaled_image_picker400925164395546084.png
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\images\321de1ee-3820-48c4-adae-9e21d681536fscaled_image_picker400925164395546084.png
+++352bed1b-e4a1-480e-b493-36dca1dc4052webapplication.png
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\images\352bed1b-e4a1-480e-b493-36dca1dc4052webapplication.png
+++35614dc5-7e3d-4b7a-a99f-8d48a24c511bede804ff-a57e-4196-8188-7daa8d39bf4d7698222218480279162.jpg
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\images\35614dc5-7e3d-4b7a-a99f-8d48a24c511bede804ff-a57e-4196-8188-7daa8d39bf4d7698222218480279162.jpg
+++35aef84c-38e9-4354-83db-9d443f894d6cscaled_image_picker6724487021398297510.png
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\images\35aef84c-38e9-4354-83db-9d443f894d6cscaled_image_picker6724487021398297510.png
+++3685b4e4-5232-437e-8e6d-4b6799fdf8863dmodelling.png
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\images\3685b4e4-5232-437e-8e6d-4b6799fdf8863dmodelling.png
+++36fe413e-6e23-4c41-aa93-5fd3b40028d1scaled_image_picker565147028654025129.png
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\images\36fe413e-6e23-4c41-aa93-5fd3b40028d1scaled_image_picker565147028654025129.png
+++3746e0d0-1df4-4167-b235-ff84cf4237f3scaled_image_picker5093337073101390086.jpg
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\images\3746e0d0-1df4-4167-b235-ff84cf4237f3scaled_image_picker5093337073101390086.jpg
+++388e7aca-c755-4487-b80f-bcce5ec9c911Screenshot_1.png
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\images\388e7aca-c755-4487-b80f-bcce5ec9c911screenshot_1.png
+++38e1f4f3-995f-41be-a039-4b7ed88e10ceScreenshot_3.png
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\images\38e1f4f3-995f-41be-a039-4b7ed88e10cescreenshot_3.png
+++392ec4c2-9caa-4cf1-9ae3-13ac3019b520googlead.png
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\images\392ec4c2-9caa-4cf1-9ae3-13ac3019b520googlead.png
+++3a6de79b-ab0e-4b1a-bf1e-06764e75b6e7pho.PNG
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\images\3a6de79b-ab0e-4b1a-bf1e-06764e75b6e7pho.png
+++3b635a19-f2dc-4f25-920c-afa2dedfd8c3scaled_c4725998-6476-4717-89f7-e0d4b21872d44908563988062755470.jpg
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\images\3b635a19-f2dc-4f25-920c-afa2dedfd8c3scaled_c4725998-6476-4717-89f7-e0d4b21872d44908563988062755470.jpg
+++3c2009da-27b5-42fc-9b06-14e4c6d9aea1Screenshot_4.png
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\images\3c2009da-27b5-42fc-9b06-14e4c6d9aea1screenshot_4.png
+++3f416871-706d-4c38-9c43-60193202559dpho.PNG
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\images\3f416871-706d-4c38-9c43-60193202559dpho.png
+++41eb4993-23ce-4bdd-a7d7-5ad6944155b7272677067_3275247402756376_4534520844955266659_n.png
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\images\41eb4993-23ce-4bdd-a7d7-5ad6944155b7272677067_3275247402756376_4534520844955266659_n.png
+++42980c38-f1e0-4199-9b25-b064f54d6f9fscaled_image_picker7256315389390591819.png
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\images\42980c38-f1e0-4199-9b25-b064f54d6f9fscaled_image_picker7256315389390591819.png
+++4511e56b-35ad-4af3-9826-cb4ec5129890photoshop.png
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\images\4511e56b-35ad-4af3-9826-cb4ec5129890photoshop.png
+++46ef33a4-c356-4ffa-911f-9f0fc6165c72digitalmarketing.png
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\images\46ef33a4-c356-4ffa-911f-9f0fc6165c72digitalmarketing.png
+++472c8d99-4ac2-4d07-8167-b928cd86f5e6graphicdesigning.png
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\images\472c8d99-4ac2-4d07-8167-b928cd86f5e6graphicdesigning.png
+++4971cc61-763b-4990-bb2a-a5dbf59001ffScreenshot_3.png
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\images\4971cc61-763b-4990-bb2a-a5dbf59001ffscreenshot_3.png
+++4ae7ab6d-ea1c-4310-9ac2-f00cf984c222scaled_799006ce-7752-42d6-97b2-831d6f1e59a46034347149977252738.jpg
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\images\4ae7ab6d-ea1c-4310-9ac2-f00cf984c222scaled_799006ce-7752-42d6-97b2-831d6f1e59a46034347149977252738.jpg
+++4dfa94c0-6c6d-45b3-a28d-df42ea19e72bscaled_image_picker2653250730617270940.png
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\images\4dfa94c0-6c6d-45b3-a28d-df42ea19e72bscaled_image_picker2653250730617270940.png
+++4e6e4d0e-5478-441c-8beb-71bfda13f757scaled_image_picker7060229886518729430.jpg
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\images\4e6e4d0e-5478-441c-8beb-71bfda13f757scaled_image_picker7060229886518729430.jpg
+++4f4a89f8-e49e-4ee3-ad60-d424eeb3313bdigitalmarketing.png
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\images\4f4a89f8-e49e-4ee3-ad60-d424eeb3313bdigitalmarketing.png
+++4fa00127-68a2-483e-843d-b5b56be6a8e7Screenshot_3.png
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\images\4fa00127-68a2-483e-843d-b5b56be6a8e7screenshot_3.png
+++542c2c8f-9dfc-4d7c-9c4c-74fd95dd01cescaled_image_picker7096167401935726837.png
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\images\542c2c8f-9dfc-4d7c-9c4c-74fd95dd01cescaled_image_picker7096167401935726837.png
+++5c374849-85a3-43c8-9f08-28a1f80fcd19digitalmarketing.png
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\images\5c374849-85a3-43c8-9f08-28a1f80fcd19digitalmarketing.png
+++611563da-384d-4c6c-9881-d16373b2fd47photoshop.png
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\images\611563da-384d-4c6c-9881-d16373b2fd47photoshop.png
+++619644c7-7715-4684-8971-dfb603d46049pho.PNG
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\images\619644c7-7715-4684-8971-dfb603d46049pho.png
+++663a18e6-761b-4f0d-bd77-3a19a3b430f9scaled_image_picker8432536159546422339.png
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\images\663a18e6-761b-4f0d-bd77-3a19a3b430f9scaled_image_picker8432536159546422339.png
+++68c080bf-6207-42d4-b8d2-36c4852c0854ede804ff-a57e-4196-8188-7daa8d39bf4d7698222218480279162.jpg
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\images\68c080bf-6207-42d4-b8d2-36c4852c0854ede804ff-a57e-4196-8188-7daa8d39bf4d7698222218480279162.jpg
+++6928dbfa-4e5d-48a8-b4b5-feee4c3d84a6pho.PNG
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\images\6928dbfa-4e5d-48a8-b4b5-feee4c3d84a6pho.png
+++6baff2da-b205-4cd6-b3ba-a9080fa40582scaled_image_picker111308202983075444.png
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\images\6baff2da-b205-4cd6-b3ba-a9080fa40582scaled_image_picker111308202983075444.png
+++6d483926-ff97-4909-8056-47dfb41713eescaled_2a48c1ed-02d9-4d80-9214-1ed1f900aa1b5607727328688597884.jpg
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\images\6d483926-ff97-4909-8056-47dfb41713eescaled_2a48c1ed-02d9-4d80-9214-1ed1f900aa1b5607727328688597884.jpg
+++6e1fed9c-dcbe-4e44-afec-a2d433d38d25scaled_image_picker5356207312886096789.png
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\images\6e1fed9c-dcbe-4e44-afec-a2d433d38d25scaled_image_picker5356207312886096789.png
+++6e2bab85-0967-4dc8-9c5d-bc0ac0674aa3scaled_2b013b30-ba97-4596-bd57-602185eaf1ee6921157186326407564.jpg
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\images\6e2bab85-0967-4dc8-9c5d-bc0ac0674aa3scaled_2b013b30-ba97-4596-bd57-602185eaf1ee6921157186326407564.jpg
+++6fdddad9-5dfa-4392-9a2a-e112934daa85python.png
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\images\6fdddad9-5dfa-4392-9a2a-e112934daa85python.png
+++72548b0d-d094-4017-8bf4-41c38abc0d77googlead.png
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\images\72548b0d-d094-4017-8bf4-41c38abc0d77googlead.png
+++7bad2543-4b04-4581-bfa7-1a338d31a15132dc058f-0c63-44b4-8605-9a789b12f3396077348866734201521.jpg
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\images\7bad2543-4b04-4581-bfa7-1a338d31a15132dc058f-0c63-44b4-8605-9a789b12f3396077348866734201521.jpg
+++7c8a75d8-75a3-4d75-b2f5-4f2f45e2eeb4error.png
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\images\7c8a75d8-75a3-4d75-b2f5-4f2f45e2eeb4error.png
+++7d4acefb-2099-45ef-87c6-c9e5d6d09078Screenshot_1.png
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\images\7d4acefb-2099-45ef-87c6-c9e5d6d09078screenshot_1.png
+++803bc483-dc23-4edc-9d15-0628902ac05fscaled_image_picker7689057710282410072.png
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\images\803bc483-dc23-4edc-9d15-0628902ac05fscaled_image_picker7689057710282410072.png
+++85561297-f11b-436c-b60a-83ef3f143cdaScreenshot_6.png
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\images\85561297-f11b-436c-b60a-83ef3f143cdascreenshot_6.png
+++87476f29-b2e2-4a00-8155-13c10c025c42Screenshot_6.png
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\images\87476f29-b2e2-4a00-8155-13c10c025c42screenshot_6.png
+++8c25c56c-ba53-4f87-87ab-65219978f9db272677067_3275247402756376_4534520844955266659_n.png
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\images\8c25c56c-ba53-4f87-87ab-65219978f9db272677067_3275247402756376_4534520844955266659_n.png
+++8ccec44b-bf67-4c90-ad30-7b61ea42ed68python.png
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\images\8ccec44b-bf67-4c90-ad30-7b61ea42ed68python.png
+++8dbb9ffb-8245-4aa6-b59c-9fa09db0a420Screenshot_2.png
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\images\8dbb9ffb-8245-4aa6-b59c-9fa09db0a420screenshot_2.png
+++8eff5aa7-c073-4d32-823f-208f88a2992dscaled_b3860f41-ea69-4919-aa50-c37ed5e789a53178399863213264490.jpg
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\images\8eff5aa7-c073-4d32-823f-208f88a2992dscaled_b3860f41-ea69-4919-aa50-c37ed5e789a53178399863213264490.jpg
+++90735b34-8703-4919-bdbc-5043c6574243scaled_image_picker377841655300309724.png
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\images\90735b34-8703-4919-bdbc-5043c6574243scaled_image_picker377841655300309724.png
+++93005f0a-ed89-4d47-b0ea-c17e89c81229scaled_b12ab663-071e-49c3-ada9-5e6b813ff1ed7505984556486864361.jpg
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\images\93005f0a-ed89-4d47-b0ea-c17e89c81229scaled_b12ab663-071e-49c3-ada9-5e6b813ff1ed7505984556486864361.jpg
+++99fd8e1e-0210-4361-adb8-bfb92719dc55error.png
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\images\99fd8e1e-0210-4361-adb8-bfb92719dc55error.png
+++9aa69540-a35a-4112-9b18-9e69713bd078scaled_image_picker751259475806848504.png
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\images\9aa69540-a35a-4112-9b18-9e69713bd078scaled_image_picker751259475806848504.png
+++9d2c8311-0344-4502-9775-28a428dd9151scaled_59691387-6761-4818-b990-defeca3f09297673665071823354863.jpg
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\images\9d2c8311-0344-4502-9775-28a428dd9151scaled_59691387-6761-4818-b990-defeca3f09297673665071823354863.jpg
+++9e072038-0a4f-4844-9df6-93b7670bad08Screenshot_6.png
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\images\9e072038-0a4f-4844-9df6-93b7670bad08screenshot_6.png
+++a03386b4-0300-477c-815a-4331fc358076scaled_9844667c-6658-477c-b4b0-f1f2231d91782808400598543059040.jpg
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\images\a03386b4-0300-477c-815a-4331fc358076scaled_9844667c-6658-477c-b4b0-f1f2231d91782808400598543059040.jpg
+++a1165519-74d0-4701-a834-1c15396aa05escaled_1720501f-cc62-44a4-be1b-c0b875a8e3164794914154548303961.jpg
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\images\a1165519-74d0-4701-a834-1c15396aa05escaled_1720501f-cc62-44a4-be1b-c0b875a8e3164794914154548303961.jpg
+++a5116753-1d93-48b6-88a7-a376373c00d63dmodelling.png
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\images\a5116753-1d93-48b6-88a7-a376373c00d63dmodelling.png
+++a73bca15-cde9-440d-9de8-d759c96d1ba3Screenshot_5.png
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\images\a73bca15-cde9-440d-9de8-d759c96d1ba3screenshot_5.png
+++a7a1e061-faee-4dd4-805a-8b2fcafbdb66Screenshot_4.png
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\images\a7a1e061-faee-4dd4-805a-8b2fcafbdb66screenshot_4.png
+++abd5740a-a463-4f03-b70e-3be4f215100ascaled_image_picker1826917232249405755.png
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\images\abd5740a-a463-4f03-b70e-3be4f215100ascaled_image_picker1826917232249405755.png
+++abe67f82-2336-44a3-a255-8c1b710143abScreenshot_1.png
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\images\abe67f82-2336-44a3-a255-8c1b710143abscreenshot_1.png
+++ac54aec5-1553-4ae9-bcac-1bc90babd664scaled_image_picker5653333206949792149.png
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\images\ac54aec5-1553-4ae9-bcac-1bc90babd664scaled_image_picker5653333206949792149.png
+++ad12d668-fc3e-4853-b8d7-ae640ffb5131Screenshot_2.png
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\images\ad12d668-fc3e-4853-b8d7-ae640ffb5131screenshot_2.png
+++b3e40452-7d31-4295-bf65-eae394505ddbscaled_image_picker5914224462659235615.png
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\images\b3e40452-7d31-4295-bf65-eae394505ddbscaled_image_picker5914224462659235615.png
+++ba187750-fbc9-48c1-b0a0-111c366e7787scaled_image_picker9085914059276999652.png
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\images\ba187750-fbc9-48c1-b0a0-111c366e7787scaled_image_picker9085914059276999652.png
+++bf54265a-b7a1-4abb-b674-c30bca222bc6Screenshot_7.png
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\images\bf54265a-b7a1-4abb-b674-c30bca222bc6screenshot_7.png
+++c191ed8a-58c1-4b42-aa3b-fa01586ad2e7Screenshot_4.png
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\images\c191ed8a-58c1-4b42-aa3b-fa01586ad2e7screenshot_4.png
+++c3d68ce9-381f-4ff3-b1a4-70597d0e7c62socialmedia.png
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\images\c3d68ce9-381f-4ff3-b1a4-70597d0e7c62socialmedia.png
+++c4de079e-6943-4ae0-9fbc-37c36b79035ascaled_image_picker7878457395130255938.png
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\images\c4de079e-6943-4ae0-9fbc-37c36b79035ascaled_image_picker7878457395130255938.png
+++c7d30019-0e75-4f5e-b39e-870e3daa8c61error.png
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\images\c7d30019-0e75-4f5e-b39e-870e3daa8c61error.png
+++c868884f-dae6-4961-87b3-9fd68fbb76ceScreenshot_1.png
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\images\c868884f-dae6-4961-87b3-9fd68fbb76cescreenshot_1.png
+++c9da6664-38d2-4af3-a962-f633cf7bc182scaled_image_picker8152993225767312292.png
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\images\c9da6664-38d2-4af3-a962-f633cf7bc182scaled_image_picker8152993225767312292.png
+++ccc2c5cb-a392-4c92-bf55-3a0fe723dd5dscaled_image_picker8259465899361587881.png
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\images\ccc2c5cb-a392-4c92-bf55-3a0fe723dd5dscaled_image_picker8259465899361587881.png
+++cd09c541-d992-4757-af81-3dd87824f7b9Screenshot_4.png
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\images\cd09c541-d992-4757-af81-3dd87824f7b9screenshot_4.png
+++cd258070-d307-4657-b0df-5f07b6ae63e8error.png
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\images\cd258070-d307-4657-b0df-5f07b6ae63e8error.png
+++d2e7ebe1-1177-4b8a-838c-2abd42a51888Screenshot_2.png
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\images\d2e7ebe1-1177-4b8a-838c-2abd42a51888screenshot_2.png
+++d69e171c-b100-4027-af32-ef7ed65b7560scaled_7db071b4-5606-47ee-ae20-39cc155973eb2420314779087406013.jpg
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\images\d69e171c-b100-4027-af32-ef7ed65b7560scaled_7db071b4-5606-47ee-ae20-39cc155973eb2420314779087406013.jpg
+++d6f64c19-4692-46ca-993d-85a2742c0660Screenshot_7.png
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\images\d6f64c19-4692-46ca-993d-85a2742c0660screenshot_7.png
+++da5e45b4-6725-4b2c-992c-7bc01bcedfd2scaled_image_picker3541084204586970588.png
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\images\da5e45b4-6725-4b2c-992c-7bc01bcedfd2scaled_image_picker3541084204586970588.png
+++dc76fd68-605c-48ff-938f-b93bf8989b5dscaled_image_picker4812083346158526045.png
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\images\dc76fd68-605c-48ff-938f-b93bf8989b5dscaled_image_picker4812083346158526045.png
+++dcb77953-034a-49f9-95e0-7d229e28f7fdScreenshot_1.png
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\images\dcb77953-034a-49f9-95e0-7d229e28f7fdscreenshot_1.png
+++e212acef-9a0a-4ddb-b17c-7591b67462aepho.PNG
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\images\e212acef-9a0a-4ddb-b17c-7591b67462aepho.png
+++e3fa4666-31fc-4059-b9bc-e440f22fca8fScreenshot_5.png
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\images\e3fa4666-31fc-4059-b9bc-e440f22fca8fscreenshot_5.png
+++e43524aa-e1a6-4e3f-8114-bf0f34ea49b3Screenshot_4.png
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\images\e43524aa-e1a6-4e3f-8114-bf0f34ea49b3screenshot_4.png
+++e4a738b3-b12f-418c-989a-f1bce0944409googlead.png
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\images\e4a738b3-b12f-418c-989a-f1bce0944409googlead.png
+++e6338d3c-44bc-4087-b904-ecdc95d585aemobileapplication.png
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\images\e6338d3c-44bc-4087-b904-ecdc95d585aemobileapplication.png
+++e80089f7-d3b7-4e15-bcb0-8b89f43dc051scaled_image_picker3824175641070102115.png
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\images\e80089f7-d3b7-4e15-bcb0-8b89f43dc051scaled_image_picker3824175641070102115.png
+++e81be473-5e55-40ba-a6c3-d67d4bed598eScreenshot_6.png
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\images\e81be473-5e55-40ba-a6c3-d67d4bed598escreenshot_6.png
+++f3a69951-4a18-46fe-ab71-0cb747c4ef9bscaled_image_picker3792134751734728873.png
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\images\f3a69951-4a18-46fe-ab71-0cb747c4ef9bscaled_image_picker3792134751734728873.png
+++f450f80f-4f1a-4159-8fe9-7dd36d994d7aScreenshot_1.png
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\images\f450f80f-4f1a-4159-8fe9-7dd36d994d7ascreenshot_1.png
+++f62f6dec-d69a-464a-9799-c41ab2503be9Screenshot_1.png
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\images\f62f6dec-d69a-464a-9799-c41ab2503be9screenshot_1.png
+++f827cb18-b27d-45f3-957c-7c4eb883bbf4scaled_image_picker7302389458298031209.png
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\images\f827cb18-b27d-45f3-957c-7c4eb883bbf4scaled_image_picker7302389458298031209.png
+++f974d5c7-a7cd-4a69-9376-9ecbc0ee43b5scaled_image_picker2094202632070954924.jpg
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\images\f974d5c7-a7cd-4a69-9376-9ecbc0ee43b5scaled_image_picker2094202632070954924.jpg
+++00eec706-5170-4e27-b291-c5c3bad90506Eraser Tools.mp4
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\videos\00eec706-5170-4e27-b291-c5c3bad90506eraser tools.mp4
+++0150f8ad-14c1-4148-93b2-8b3526c1d71dHow To Create Content For Marketing.mp4
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\videos\0150f8ad-14c1-4148-93b2-8b3526c1d71dhow to create content for marketing.mp4
+++01752ef6-9cac-4264-a382-c59d08f7d1b0yt1s.com - نور ستارز  بزنس فيديو كليب حصري  Noor Stars  Business Exclusive VideoClip.mp4
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\videos\01752ef6-9cac-4264-a382-c59d08f7d1b0yt1s.com - نور ستارز  بزنس فيديو كليب حصري  noor stars  business exclusive videoclip.mp4
+++0955d849-cb17-4404-b695-21b564dd496fimage_picker5565674060484418967.mp4
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\videos\0955d849-cb17-4404-b695-21b564dd496fimage_picker5565674060484418967.mp4
+++0fdd31ce-da30-446f-9c9e-098b9cf1e7e4image_picker5063499638160341217.mp4
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\videos\0fdd31ce-da30-446f-9c9e-098b9cf1e7e4image_picker5063499638160341217.mp4
+++122e3f24-522b-4a7d-9307-501c8084e52eInstalling Android Studio & Setup.mp4
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\videos\122e3f24-522b-4a7d-9307-501c8084e52einstalling android studio & setup.mp4
+++14ccc887-6e57-40c8-b2b9-f9b170d831c9image_picker5350773914284504841.mp4
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\videos\14ccc887-6e57-40c8-b2b9-f9b170d831c9image_picker5350773914284504841.mp4
+++15e327e4-57b8-4324-889f-8e7c0b352962image_picker6759204737327098280.mp4
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\videos\15e327e4-57b8-4324-889f-8e7c0b352962image_picker6759204737327098280.mp4
+++1a207583-7064-4cb8-ac3a-1d768def7a79image_picker5932534277062716819.mp4
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\videos\1a207583-7064-4cb8-ac3a-1d768def7a79image_picker5932534277062716819.mp4
+++1af9eae8-550f-43cb-9dbb-a04be812f78aAndroid activity & Activity Lifecycle.mp4
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\videos\1af9eae8-550f-43cb-9dbb-a04be812f78aandroid activity & activity lifecycle.mp4
+++1ba66416-2758-4ea8-988b-32cf89404f7fLinear Layout & Relative Layout In Android.mp4
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\videos\1ba66416-2758-4ea8-988b-32cf89404f7flinear layout & relative layout in android.mp4
+++1bb10df5-3b29-4552-9073-6ca2fb490f50image_picker4563375360988751632.mp4
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\videos\1bb10df5-3b29-4552-9073-6ca2fb490f50image_picker4563375360988751632.mp4
+++1ef0aafa-71b1-44b5-b580-df1c72992924image_picker95051243309530659.mp4
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\videos\1ef0aafa-71b1-44b5-b580-df1c72992924image_picker95051243309530659.mp4
+++1f3369ff-8d22-4b77-b96d-1ca01a969833image_picker1068171479810848388.mp4
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\videos\1f3369ff-8d22-4b77-b96d-1ca01a969833image_picker1068171479810848388.mp4
+++1f5df94b-445e-4a52-9ae4-daf781bcdc8dVisual Social Media.mp4
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\videos\1f5df94b-445e-4a52-9ae4-daf781bcdc8dvisual social media.mp4
+++2032c3bb-b593-47f6-98c3-8210802076fcimage_picker3311900257098618855.mp4
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\videos\2032c3bb-b593-47f6-98c3-8210802076fcimage_picker3311900257098618855.mp4
+++20ba6d47-0423-4367-ace3-835f168dc8f5image_picker5565674060484418967.mp4
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\videos\20ba6d47-0423-4367-ace3-835f168dc8f5image_picker5565674060484418967.mp4
+++292da4e7-ff2b-43e0-8bc5-ee6aaa974592image_picker6974400526746216775.mp4
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\videos\292da4e7-ff2b-43e0-8bc5-ee6aaa974592image_picker6974400526746216775.mp4
+++295c145e-9825-4b30-8e8f-16ce20bc8330image_picker5565674060484418967.mp4
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\videos\295c145e-9825-4b30-8e8f-16ce20bc8330image_picker5565674060484418967.mp4
+++2b51eba1-ff09-4c6a-b410-9f0644451c04image_picker5083815867110278693.mp4
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\videos\2b51eba1-ff09-4c6a-b410-9f0644451c04image_picker5083815867110278693.mp4
+++2b978fd4-0982-42c7-b85a-081d1e3b1d62image_picker4403852122268871567.mp4
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\videos\2b978fd4-0982-42c7-b85a-081d1e3b1d62image_picker4403852122268871567.mp4
+++32a59188-bb49-44a5-882f-13d083750e57image_picker3487342394229590166.mp4
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\videos\32a59188-bb49-44a5-882f-13d083750e57image_picker3487342394229590166.mp4
+++34f0f180-d558-44f2-b2ff-52413a01546bSocial Media Marketing In 5 Minutes _ What Is Social Media Marketing.mp4
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\videos\34f0f180-d558-44f2-b2ff-52413a01546bsocial media marketing in 5 minutes _ what is social media marketing.mp4
+++39bab403-0585-47b0-a5d7-ec8ed9476d96Android activity & Activity Lifecycle.mp4
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\videos\39bab403-0585-47b0-a5d7-ec8ed9476d96android activity & activity lifecycle.mp4
+++39e4846e-1ffd-4dc0-bf50-bf98280f4264image_picker5565674060484418967.mp4
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\videos\39e4846e-1ffd-4dc0-bf50-bf98280f4264image_picker5565674060484418967.mp4
+++3bc2b329-17e6-4cb6-a663-cfe9058ce103image_picker655010893343360313.mp4
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\videos\3bc2b329-17e6-4cb6-a663-cfe9058ce103image_picker655010893343360313.mp4
+++3bd2a601-f7bc-4152-9c24-2a901fd2797cimage_picker8006234070036587738.mp4
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\videos\3bd2a601-f7bc-4152-9c24-2a901fd2797cimage_picker8006234070036587738.mp4
+++3c70acdd-6542-44a6-a6b7-9c4b423748e4image_picker5781498821956981244.mp4
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\videos\3c70acdd-6542-44a6-a6b7-9c4b423748e4image_picker5781498821956981244.mp4
+++3f8246a8-57b6-4f56-ad67-ef68b6195469image_picker8858639619254647929.mp4
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\videos\3f8246a8-57b6-4f56-ad67-ef68b6195469image_picker8858639619254647929.mp4
+++402a3e26-9add-4555-a805-0f90c7a0687bInstalling Android Studio & Setup.mp4
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\videos\402a3e26-9add-4555-a805-0f90c7a0687binstalling android studio & setup.mp4
+++40c372c0-3543-4338-af29-1a554eba4f82Social Media Selling.mp4
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\videos\40c372c0-3543-4338-af29-1a554eba4f82social media selling.mp4
+++43026020-564a-4fd6-a6fd-eca17d9f4eb4image_picker9151783078770729165.mp4
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\videos\43026020-564a-4fd6-a6fd-eca17d9f4eb4image_picker9151783078770729165.mp4
+++46053d0f-f533-49ca-ae71-77f87623d6e5Social Media Marketing Strategy.mp4
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\videos\46053d0f-f533-49ca-ae71-77f87623d6e5social media marketing strategy.mp4
+++466ae54d-2cc9-45e5-8b1c-088ce7d6297dBlack & White with Color - Adobe Photoshop for Beginners - Class 12 - Urdu _ Hindi.mp4
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\videos\466ae54d-2cc9-45e5-8b1c-088ce7d6297dblack & white with color - adobe photoshop for beginners - class 12 - urdu _ hindi.mp4
+++4bafda60-6b49-4df8-af45-ffdd1c392f1e3207126058.mp4
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\videos\4bafda60-6b49-4df8-af45-ffdd1c392f1e3207126058.mp4
+++4c9b6c03-0e73-44c6-ae75-1d797a42e51eEraser Tools.mp4
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\videos\4c9b6c03-0e73-44c6-ae75-1d797a42e51eeraser tools.mp4
+++4cc92ab2-39d4-486e-9e22-0cf49e1efe15How To Spark Social Media Sharing.mp4
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\videos\4cc92ab2-39d4-486e-9e22-0cf49e1efe15how to spark social media sharing.mp4
+++4d0463b7-591c-4944-bb20-968557b4ecddContent Aware Fill & Move Tool - Adobe Photoshop for Beginners - Class 8 - Urdu _ Hindi.mp4
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\videos\4d0463b7-591c-4944-bb20-968557b4ecddcontent aware fill & move tool - adobe photoshop for beginners - class 8 - urdu _ hindi.mp4
+++5089cbca-7470-460e-8580-1592a8138d63Twitter Advertising Tutorial.mp4
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\videos\5089cbca-7470-460e-8580-1592a8138d63twitter advertising tutorial.mp4
+++521e8018-5a08-4b64-8be1-d3d6ee385d75Pinterest Marketing.mp4
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\videos\521e8018-5a08-4b64-8be1-d3d6ee385d75pinterest marketing.mp4
+++5538585a-6d10-4f12-a960-3c20a8bfa62eimage_picker7377078752071712636.mp4
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\videos\5538585a-6d10-4f12-a960-3c20a8bfa62eimage_picker7377078752071712636.mp4
+++55e9f1c0-7a5d-4c79-a373-54f75729b6b1image_picker7455120183653835858.mp4
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\videos\55e9f1c0-7a5d-4c79-a373-54f75729b6b1image_picker7455120183653835858.mp4
+++55ef8143-741a-4408-ad20-f628af34afeeAndroid activity & Activity Lifecycle.mp4
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\videos\55ef8143-741a-4408-ad20-f628af34afeeandroid activity & activity lifecycle.mp4
+++55faad95-5471-4fc5-ade9-e15a60e6b511Content Aware Fill & Move Tool - Adobe Photoshop for Beginners - Class 8 - Urdu _ Hindi.mp4
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\videos\55faad95-5471-4fc5-ade9-e15a60e6b511content aware fill & move tool - adobe photoshop for beginners - class 8 - urdu _ hindi.mp4
+++56617254-9fff-4a9b-bc34-70216fb606f8image_picker5565674060484418967.mp4
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\videos\56617254-9fff-4a9b-bc34-70216fb606f8image_picker5565674060484418967.mp4
+++57a08ff3-bb40-4faf-a25e-c94661eb1989image_picker7272740345309441275.mp4
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\videos\57a08ff3-bb40-4faf-a25e-c94661eb1989image_picker7272740345309441275.mp4
+++5a0f2a8f-d1f0-41cd-ba3b-2a4ba66107a3Adobe Illustrator Training - Pen Tool and Shape Builder Tool.mp4
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\videos\5a0f2a8f-d1f0-41cd-ba3b-2a4ba66107a3adobe illustrator training - pen tool and shape builder tool.mp4
+++650fd3ca-3b30-4240-8b3f-065122ff335eDownloading Python and Pycharm Installation.mp4
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\videos\650fd3ca-3b30-4240-8b3f-065122ff335edownloading python and pycharm installation.mp4
+++6822d731-9ffa-41ac-835d-51ff68148ebbimage_picker8520593215474945760.mp4
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\videos\6822d731-9ffa-41ac-835d-51ff68148ebbimage_picker8520593215474945760.mp4
+++6e0c177c-c773-4d75-9b74-7fbd33292215image_picker5565674060484418967.mp4
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\videos\6e0c177c-c773-4d75-9b74-7fbd33292215image_picker5565674060484418967.mp4
+++74064df9-78aa-4fb3-be57-cdab339f80e2image_picker3383870608582629585.mp4
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\videos\74064df9-78aa-4fb3-be57-cdab339f80e2image_picker3383870608582629585.mp4
+++7494b1cc-5c1d-40ba-8c03-93e6ff486075User Interface Overview - #3 Blender Beginner Modelling Tutorial Series.mp4
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\videos\7494b1cc-5c1d-40ba-8c03-93e6ff486075user interface overview - #3 blender beginner modelling tutorial series.mp4
+++75e67614-4067-49ca-bbee-f3de994d0fa0image_picker6249718925135692347.mp4
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\videos\75e67614-4067-49ca-bbee-f3de994d0fa0image_picker6249718925135692347.mp4
+++794545ea-1ce5-4808-80bb-c23594b5a44bimage_picker5577199543386701739.mp4
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\videos\794545ea-1ce5-4808-80bb-c23594b5a44bimage_picker5577199543386701739.mp4
+++7bcf0b7d-1583-49c5-b04f-75ba0ff9c327image_picker5931541220429103068.mp4
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\videos\7bcf0b7d-1583-49c5-b04f-75ba0ff9c327image_picker5931541220429103068.mp4
+++81d4a55b-290d-4a82-b3c0-45eca5fa54ebFor Loops In Python.mp4
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\videos\81d4a55b-290d-4a82-b3c0-45eca5fa54ebfor loops in python.mp4
+++861ffb41-dcd6-4b5c-b962-5258e72dcc34image_picker5565674060484418967.mp4
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\videos\861ffb41-dcd6-4b5c-b962-5258e72dcc34image_picker5565674060484418967.mp4
+++892745cb-123c-464c-ac88-976d8f5d4e39image_picker395967776254181695.mp4
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\videos\892745cb-123c-464c-ac88-976d8f5d4e39image_picker395967776254181695.mp4
+++893758e2-589c-47af-85b8-482b8602082fCSS Units px, rem, em, vh, vw _ Absolute Vs Relative Units _ CSS Core concepts _ Web Dev In Hindi.mp4
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\videos\893758e2-589c-47af-85b8-482b8602082fcss units px, rem, em, vh, vw _ absolute vs relative units _ css core concepts _ web dev in hindi.mp4
+++898a9f8f-fe54-4ee1-b45d-e49aa1ef3a9eimage_picker5565674060484418967.mp4
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\videos\898a9f8f-fe54-4ee1-b45d-e49aa1ef3a9eimage_picker5565674060484418967.mp4
+++8c52359c-8e57-4c95-bfe0-cc9914d2e4e9Twitter Advertising Tutorial.mp4
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\videos\8c52359c-8e57-4c95-bfe0-cc9914d2e4e9twitter advertising tutorial.mp4
+++8c5264ca-1626-4494-9458-ddef44ea72dfimage_picker5565674060484418967.mp4
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\videos\8c5264ca-1626-4494-9458-ddef44ea72dfimage_picker5565674060484418967.mp4
+++8ed8528b-307f-44cd-9b37-396c631be4b2Installing Android Studio & Setup.mp4
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\videos\8ed8528b-307f-44cd-9b37-396c631be4b2installing android studio & setup.mp4
+++8f059424-8515-4c0e-8071-94ab8f1a3839Visual Social Media.mp4
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\videos\8f059424-8515-4c0e-8071-94ab8f1a3839visual social media.mp4
+++927bec6e-c459-4532-a490-e1b18439ad20image_picker1741855721633259969.mp4
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\videos\927bec6e-c459-4532-a490-e1b18439ad20image_picker1741855721633259969.mp4
+++93b83243-3213-4b98-84bf-ccea96870a0eimage_picker289861382713266976.mp4
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\videos\93b83243-3213-4b98-84bf-ccea96870a0eimage_picker289861382713266976.mp4
+++95a00704-10dd-4093-95f9-530dcea05b00Installing Android Studio & Setup.mp4
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\videos\95a00704-10dd-4093-95f9-530dcea05b00installing android studio & setup.mp4
+++992603a0-a8c5-41e9-846b-d9ec73a22a29image_picker5565674060484418967.mp4
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\videos\992603a0-a8c5-41e9-846b-d9ec73a22a29image_picker5565674060484418967.mp4
+++994bea34-5cd1-4a63-bbb0-eedb40095760Using Modules & Pip In Python.mp4
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\videos\994bea34-5cd1-4a63-bbb0-eedb40095760using modules & pip in python.mp4
+++9a4ea2e2-5693-4304-a671-52b1a4b3f393image_picker885835038813752057.mp4
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\videos\9a4ea2e2-5693-4304-a671-52b1a4b3f393image_picker885835038813752057.mp4
+++9bf9ebcb-3a8f-4670-aa25-69505a20e820Viewport Navigation - #2 Blender Beginner Modelling Tutorial Series.mp4
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\videos\9bf9ebcb-3a8f-4670-aa25-69505a20e820viewport navigation - #2 blender beginner modelling tutorial series.mp4
+++9d236ab9-675a-431b-9ff7-95872052abadimage_picker5565674060484418967.mp4
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\videos\9d236ab9-675a-431b-9ff7-95872052abadimage_picker5565674060484418967.mp4
+++9facf972-78cd-4135-aaf5-ba94c6c5636eProperties Panel - #5 Blender Beginner Modelling Tutorial Series.mp4
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\videos\9facf972-78cd-4135-aaf5-ba94c6c5636eproperties panel - #5 blender beginner modelling tutorial series.mp4
+++a077cd93-362a-49b7-9b9e-6abc906cc19aimage_picker1010942703985721236.mp4
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\videos\a077cd93-362a-49b7-9b9e-6abc906cc19aimage_picker1010942703985721236.mp4
+++a10266cd-47d8-4f2d-bb57-e42555c7832cimage_picker5705656809142547436.mp4
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\videos\a10266cd-47d8-4f2d-bb57-e42555c7832cimage_picker5705656809142547436.mp4
+++a1410570-1f6b-4c54-a318-4accf9aa84e9image_picker590627748444261619.mp4
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\videos\a1410570-1f6b-4c54-a318-4accf9aa84e9image_picker590627748444261619.mp4
+++a3da3b99-7425-49a8-84b8-d1b25e1d7163Installing Android Studio & Setup.mp4
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\videos\a3da3b99-7425-49a8-84b8-d1b25e1d7163installing android studio & setup.mp4
+++a48878bd-c6f3-41de-ba3d-d3f833a66272image_picker5565674060484418967.mp4
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\videos\a48878bd-c6f3-41de-ba3d-d3f833a66272image_picker5565674060484418967.mp4
+++a4c3b5bc-a211-4fdd-8911-b36a1bf06e94Properties Panel - #5 Blender Beginner Modelling Tutorial Series.mp4
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\videos\a4c3b5bc-a211-4fdd-8911-b36a1bf06e94properties panel - #5 blender beginner modelling tutorial series.mp4
+++a65ac290-686c-427e-a4bd-80096c7afa07yt1s.com - نور ستارز  بزنس فيديو كليب حصري  Noor Stars  Business Exclusive VideoClip.mp4
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\videos\a65ac290-686c-427e-a4bd-80096c7afa07yt1s.com - نور ستارز  بزنس فيديو كليب حصري  noor stars  business exclusive videoclip.mp4
+++a71c190f-7781-4e4e-b700-919c1a291d2bInstalling Vscode Node.js Git   _ Web Development in Hindi.mp4
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\videos\a71c190f-7781-4e4e-b700-919c1a291d2binstalling vscode node.js git   _ web development in hindi.mp4
+++aa91645e-6b7b-476f-8ffe-0e9955043731image_picker809117709938071692.mp4
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\videos\aa91645e-6b7b-476f-8ffe-0e9955043731image_picker809117709938071692.mp4
+++ab8f644e-9ed8-47b6-82ea-c1422cbc72a3image_picker5417724448316549599.mp4
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\videos\ab8f644e-9ed8-47b6-82ea-c1422cbc72a3image_picker5417724448316549599.mp4
+++abc79839-f81d-4c05-b9ae-173316855ea6Pinterest Marketing.mp4
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\videos\abc79839-f81d-4c05-b9ae-173316855ea6pinterest marketing.mp4
+++ad9651cc-7fc9-429d-a0ae-981f8931cc3bBrush Tool.mp4
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\videos\ad9651cc-7fc9-429d-a0ae-981f8931cc3bbrush tool.mp4
+++aedeae82-1698-44ed-88d4-2b6a103ebb09image_picker5565674060484418967.mp4
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\videos\aedeae82-1698-44ed-88d4-2b6a103ebb09image_picker5565674060484418967.mp4
+++af025177-892f-4c1c-ba81-364fb1661aefComments, Escape Sequences & Print Statement.mp4
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\videos\af025177-892f-4c1c-ba81-364fb1661aefcomments, escape sequences & print statement.mp4
+++b032fda9-4faa-4d08-bb35-851345ada878Social Media Selling.mp4
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\videos\b032fda9-4faa-4d08-bb35-851345ada878social media selling.mp4
+++b5130ee6-3aee-4f5d-b787-9dbf46d740a7How To Create Content For Marketing.mp4
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\videos\b5130ee6-3aee-4f5d-b787-9dbf46d740a7how to create content for marketing.mp4
+++bc26706b-eb03-4af1-a357-4f7957be0c99Variables, Datatypes and Typecasting.mp4
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\videos\bc26706b-eb03-4af1-a357-4f7957be0c99variables, datatypes and typecasting.mp4
+++bcea4061-fb7b-44c4-acf6-02ed14b209bfViewport Navigation - #2 Blender Beginner Modelling Tutorial Series.mp4
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\videos\bcea4061-fb7b-44c4-acf6-02ed14b209bfviewport navigation - #2 blender beginner modelling tutorial series.mp4
+++c5d0bd23-33c4-463b-a32e-097c1264b48fUsing Selections - #6 Blender Beginner Modelling Tutorial Series.mp4
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\videos\c5d0bd23-33c4-463b-a32e-097c1264b48fusing selections - #6 blender beginner modelling tutorial series.mp4
+++c6ce58e8-5ef0-42ab-aa77-c27395b1fa52Brush Tool.mp4
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\videos\c6ce58e8-5ef0-42ab-aa77-c27395b1fa52brush tool.mp4
+++cb46952d-702d-48a6-a7f6-79d690153f36Black & White with Color - Adobe Photoshop for Beginners - Class 12 - Urdu _ Hindi.mp4
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\videos\cb46952d-702d-48a6-a7f6-79d690153f36black & white with color - adobe photoshop for beginners - class 12 - urdu _ hindi.mp4
+++cb9e0cab-4cfb-4b8c-971d-7426f0e7a642Layers & Visibility - #8 Blender Beginner Modelling Tutorial Series.mp4
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\videos\cb9e0cab-4cfb-4b8c-971d-7426f0e7a642layers & visibility - #8 blender beginner modelling tutorial series.mp4
+++cc5f514d-c64f-468f-a36b-4c9422084b25image_picker1925333243701987333.mp4
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\videos\cc5f514d-c64f-468f-a36b-4c9422084b25image_picker1925333243701987333.mp4
+++cd38af99-5523-4912-89df-a4d8c51eb391image_picker5932534277062716819.mp4
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\videos\cd38af99-5523-4912-89df-a4d8c51eb391image_picker5932534277062716819.mp4
+++d0f21074-2728-4dbf-800c-955af11cb62dimage_picker5565674060484418967.mp4
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\videos\d0f21074-2728-4dbf-800c-955af11cb62dimage_picker5565674060484418967.mp4
+++d7be8fb6-0419-4b8d-b16f-c59088d7311ayt1s.com - نور ستارز  بزنس فيديو كليب حصري  Noor Stars  Business Exclusive VideoClip.mp4
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\videos\d7be8fb6-0419-4b8d-b16f-c59088d7311ayt1s.com - نور ستارز  بزنس فيديو كليب حصري  noor stars  business exclusive videoclip.mp4
+++d7c32530-612f-467c-a2f2-e0b02e9ce153Layers & Visibility - #8 Blender Beginner Modelling Tutorial Series.mp4
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\videos\d7c32530-612f-467c-a2f2-e0b02e9ce153layers & visibility - #8 blender beginner modelling tutorial series.mp4
+++d7e659ae-3027-4581-98f2-df49894aac80Android activity & Activity Lifecycle.mp4
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\videos\d7e659ae-3027-4581-98f2-df49894aac80android activity & activity lifecycle.mp4
+++d9db70f8-f7fa-4ad4-8a72-c4b12dff4d4aimage_picker723667790730983101.mp4
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\videos\d9db70f8-f7fa-4ad4-8a72-c4b12dff4d4aimage_picker723667790730983101.mp4
+++dc35763d-a10e-4180-838d-475929ee07c3User Interface Overview - #3 Blender Beginner Modelling Tutorial Series.mp4
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\videos\dc35763d-a10e-4180-838d-475929ee07c3user interface overview - #3 blender beginner modelling tutorial series.mp4
+++ddebdbee-f930-4dd0-86f3-15f329afc48dHealing Tools.mp4
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\videos\ddebdbee-f930-4dd0-86f3-15f329afc48dhealing tools.mp4
+++df4fb3cb-3535-4acb-8ee5-c40bebe592c7Using Selections - #6 Blender Beginner Modelling Tutorial Series.mp4
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\videos\df4fb3cb-3535-4acb-8ee5-c40bebe592c7using selections - #6 blender beginner modelling tutorial series.mp4
+++e23c6e32-de06-4f19-a153-785c002de991image_picker5864349612489292667.mp4
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\videos\e23c6e32-de06-4f19-a153-785c002de991image_picker5864349612489292667.mp4
+++e2bc5968-557c-4f58-85a4-da9cc1a0b9a1image_picker5565674060484418967.mp4
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\videos\e2bc5968-557c-4f58-85a4-da9cc1a0b9a1image_picker5565674060484418967.mp4
+++e3acf241-20c5-41f2-841b-68575944520eimage_picker8604778074601094711.mp4
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\videos\e3acf241-20c5-41f2-841b-68575944520eimage_picker8604778074601094711.mp4
+++ebc430ce-3153-425a-b66b-9ab98d248c7eAdobe Illustrator Training - Selection Tool.mp4
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\videos\ebc430ce-3153-425a-b66b-9ab98d248c7eadobe illustrator training - selection tool.mp4
+++ee225a39-9231-4e19-b222-3ca820098c5dimage_picker4484011741795706145.mp4
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\videos\ee225a39-9231-4e19-b222-3ca820098c5dimage_picker4484011741795706145.mp4
+++ee2bee7d-424e-43c0-84d6-4c4878b6fc01Comments, Escape Sequences & Print Statement.mp4
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\videos\ee2bee7d-424e-43c0-84d6-4c4878b6fc01comments, escape sequences & print statement.mp4
+++ee5bfe9f-b1a9-4cb8-9474-c45fa16e52b5Python Lists And List Functions.mp4
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\videos\ee5bfe9f-b1a9-4cb8-9474-c45fa16e52b5python lists and list functions.mp4
+++f1ed8927-26d1-482d-88fd-9d82ee7be058Installing Android Studio & Setup.mp4
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\videos\f1ed8927-26d1-482d-88fd-9d82ee7be058installing android studio & setup.mp4
+++f20b93e7-2517-4ff5-bb0f-2f0cf19b9edcSocial Media Marketing Strategy.mp4
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\videos\f20b93e7-2517-4ff5-bb0f-2f0cf19b9edcsocial media marketing strategy.mp4
+++f4962b9d-408d-45cd-9fa2-3109c1b33e72Adobe Illustrator Training - Selection Tool.mp4
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\videos\f4962b9d-408d-45cd-9fa2-3109c1b33e72adobe illustrator training - selection tool.mp4
+++f5678120-ca11-4b10-8156-b7686e39726aimage_picker3359648287518368721.mp4
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\videos\f5678120-ca11-4b10-8156-b7686e39726aimage_picker3359648287518368721.mp4
+++f9c3da66-c0b9-4157-a14d-e7abae760e1aimage_picker6647134837089331570.mp4
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\videos\f9c3da66-c0b9-4157-a14d-e7abae760e1aimage_picker6647134837089331570.mp4
+++fbca388e-50d8-4d8c-9e9c-76623e31d269image_picker2330101157286315173.mp4
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\videos\fbca388e-50d8-4d8c-9e9c-76623e31d269image_picker2330101157286315173.mp4
+++fde92cc5-cd9c-40a4-a670-251165422f38image_picker948855281210495298.mp4
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\videos\fde92cc5-cd9c-40a4-a670-251165422f38image_picker948855281210495298.mp4
+++fe1bc532-f07f-4e87-ae67-fca05ccf509cHealing Tools.mp4
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\videos\fe1bc532-f07f-4e87-ae67-fca05ccf509chealing tools.mp4
+++fe6c2269-453d-4668-8ad1-bf23069c8db9image_picker8737302663655238775.mp4
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\videos\fe6c2269-453d-4668-8ad1-bf23069c8db9image_picker8737302663655238775.mp4
+++ffe2841d-a444-4486-a2b0-e69f3dd00cd6Social Media Marketing Strategy.mp4
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\videos\ffe2841d-a444-4486-a2b0-e69f3dd00cd6social media marketing strategy.mp4
+++fffadcb8-d38a-4b1c-b85a-34771e16386cimage_picker5864349612489292667.mp4
+i:{de98b9e3-e711-4089-b2c9-c59913fe0b3c}:c:\fyp\growup\wwwroot\media\videos\fffadcb8-d38a-4b1c-b85a-34771e16386cimage_picker5864349612489292667.mp4
